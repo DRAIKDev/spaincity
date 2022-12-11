@@ -1,5 +1,7 @@
 # Servidor de SpainCityRP
-El resto de cosas pedirmelas por discord no se puede subir todo ; )
+## El resto de cosas pedirmelas por discord no se puede subir todo ; )
+
+
 ![alt text](https://media.discordapp.net/attachments/794598834231050290/806274828734431246/gifdiscord.gif)
 
 ## :rocket: 
