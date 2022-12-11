@@ -1,0 +1,33 @@
+Locales['en'] = {
+	['cloakroom']				= 'Vestuario',
+	['job_wear']				= 'Ropa de trabajo',
+	['citizen_wear']			= 'Ropa civil',
+	['vehiclespawner']			= 'Sacar blindado', 
+	['already_have_truck']		= 'Ya tenemos un camion desplegado!!', 
+	['delivery']				= 'presiona ~INPUT_PICKUP~ para activar la recogida de dinero(~r~Busca un circulo rojo~r~)',
+	['not_your_truck']			= 'Este no es el camion que te prestamos! !',
+	['not_your_truck2']			= 'Tienes que estar en el camion que te dimos !',
+	['need_it']					= 'Claro, pero lo neceitamos. !',
+	['ok_work']					= 'Vale, a trabajar entonces !',
+	['scared_me']				= 'Vale, me has asustado !',
+	['resume_delivery']			= 'Vale, sigue con la recojida !',
+	['not_delivery']			= 'Sin bolsas no hay dinero',
+	['pay_repair']				= 'Has pagado las reparaciones !',
+	['repair_minus']			= 'Reparacion del camion : -',
+	['shipments_plus']			= 'Cargamentos : +',
+	['truck_state']				= 'No te voy a pagar, tio. Has visto como esta el camion? !',
+	['no_delivery_no_truck']  	= 'Si no hay recojida no hay camion, es esto una broma?',
+	['truck_price']				= 'Precio camion : -',
+	['meet_ls']					= 'Ve al siguiente punto de recogida',
+	['meet_bc']					= 'Ve al siguiente punto de recogida',
+	['meet_del']				= 'Ve al siguiente punto de recogida',
+	['return_depot']			= 'Vuelve a la base.',
+	['blip_job']				= 'Coompañia blindados', --'Garbage company',
+	['blip_delivery']			= 'Compañia blindados: ubicacion recogida', --'Garbage company : Delivery',
+	['blip_goal']				= 'Compañia blindados : Recogida dinero', --'Garbage company : Delivery point',
+	['blip_depot']				= 'Compañia blindados : Depositar', --'Garbage company : depot',
+	['cancel_mission']			= 'Presiona ~INPUT_PICKUP~ para cancelar la mision',
+}
+
+
+

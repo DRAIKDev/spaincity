@@ -1,0 +1,16 @@
+Locales['es'] = {
+  ['robo_roboxd'] = 'Robos especificos',
+  ['press_to_rob'] = 'Presiona ~INPUT_CONTEXT~ para ~o~robar~s~ ~b~%s~s~',
+  ['roboxd_timer'] = 'Robo a: ~r~%s~s~ segundos restantes',
+  ['recently_robbed'] = 'Ya ha sido robado recientemente. Espera ~y~%s~s~ segundos antes de poder robarlo de nuevo',
+  ['rob_in_prog'] = '~r~Robo en proceso en ~b~%s~s~',
+  ['started_to_rob'] = 'has empezado a robar en ~y~%s~s~',
+  ['alarm_triggered'] = 'la alarma ha sido activada!',
+  ['roboxd_complete'] = '~r~El robo salió bien~s~, has ~o~robado~s~ ~g~%s€~s~',
+  ['roboxd_complete_at'] = '~r~Robo finalizado en ~y~%s~s~',
+  ['roboxd_cancelled'] = 'el ~o~robo~s~ ha sido cancelado!',
+  ['roboxd_cancelled_at'] = '~r~El robo en ~b~%s~s~ ha sido cancelado!',
+  ['min_police'] = 'Se necesitan ~b~%s policías~s~ activos para poder robar.',
+  ['roboxd_already'] = '~r~Ya hay un robo en progreso.',
+  ['no_threat'] = 'Sin arma no te tienen miedo... ¡Marica!',
+}

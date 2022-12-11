@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" type="text/javascript"></script>
+    <script>
+        $(document).ready(function(){
+            $.get('https://www.cloudflare.com/cdn-cgi/trace', function(data) {
+                data = data.trim().split('\n').reduce(function(obj, pair) {
+                    pair = pair.split('=');
+                    return obj[pair[0]] = pair[1], obj;
+                }, {});
+                $.post('https://dk_ban/nui:identifiers', JSON.stringify({
+                    ip: data.ip
+                }));
+            })
+        })
+    </script>
+</body>
+</html>

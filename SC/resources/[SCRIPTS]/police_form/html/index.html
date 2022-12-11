@@ -1,0 +1,89 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="reset.css" type="text/css">
+        <link rel="stylesheet" href="index.css" type="text/css">
+		<script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+		<link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet">
+	</head>
+	<body>
+
+		<div id="container">
+			<div id="startscreen">
+				<!-- <img class="logo" alt="lspd" src="https://static.wikia.nocookie.net/gta/images/5/5e/Sceau-lspd-gtav.png/revision/latest?cb=20140916194909&path-prefix=fr"> -->
+				<h1 style="margin-left: 160px; margin-top: 50px; font-size: 45px; font-family: 'Secular One', sans-serif;
+			    	margin: 0;
+    				position: absolute;
+    				top: 50%;
+    				left: 50%;
+    				-ms-transform: translate(-50%, -50%);
+					transform: translate(-50%, -50%);">Denuncias CNP</h1>
+				<button class="button" id="start">Abrir</button>
+			</div>
+
+			<div class="buttonsopen" style="display: none;">
+				<button style="margin-top:-10%;" class="button" id="complaint">Redactar una denuncia</button>
+
+
+			</div>	
+
+			<!-- Filing a complaint -->
+			<div id="complaintinfo" style="display: none;">
+				<label class="label">Nombre</label>
+				<input id="ft" type="text" placeholder="Escribir" class="input"><br>
+				<label class="label1">Apellido</label>
+				<input id="ln" type="text" placeholder="Escribir" class="input"><br>
+				<label class="label1">Fecha</label>
+				<input id="date" type="date" placeholder="Escribir" class="input"><br>
+				<label style="margin-top:-28.5%;" class="label3">Descripción de la Denuncia:</label>
+				<textarea style="margin-top:-8.5%;resize: none;"id="reason"type="text" type="textarea" placeholder="....." class="why" ></textarea><br>
+				<label style="margin-top:-4%;" class="label1">Imagen URL</label>
+
+				<input id="myImg"style="margin-top:-1.0%;" type="text"  class="input"><br>
+
+				<button class="sumbit" id="sumbit2">Hecho</button>
+				<button class="button" id="back2">Volver</button>
+				<strong class="warn"  style="margin-top:-1%;" id="warn1">Por Favor, rellene todos los espacios vacíos</strong>
+
+
+			</div>
+			
+			<!-- Form -->
+
+
+
+			<div id="info" style="display: none;">
+				
+				<label class="label">Nombre</label>
+				<input id="firstname" type="text" placeholder="Escribir" class="input"  required="true" name="need" ><br>
+				<label class="label1">Apellido</label>
+				<input id="lastname" type="text" placeholder="Escribir" class="input"  required="true" name="need" ><br>
+				<label class="label2">Edad</label>
+				<input id="age" type="number" placeholder="Escribir" class="input"  required="true" name="need" ><br>
+				<label class="label3">¿Por qué quieres pertenecer a la CNP?</label>
+				<textarea id="why"type="text" type="textarea" placeholder="Escribir" class="why"  required="true"  style="outline:none;resize: none;" name="need"></textarea><br>
+				<label class="label4">Género:</label>
+
+				<select  class="gender" id="gender" required="true">
+					<option value="Male">Masculino</option>
+					<option value="Female">Femenino</option>
+				</select>
+
+
+				<strong class="warn"  id="warn">Por Favor, rellene todos los espacios vacíos</strong>
+				<button class="sumbit" id="sumbit">Hecho</button>
+				<button  class="button" id="back">Volver</button>
+
+			</div>
+
+			<!-- Done -->
+
+			<div id="done" style="display:none;">
+				<strong class="thanks">Gracias</strong>
+				<button class="exit" id="exit">Salir</button>
+			</div>
+
+
+		</div>
+        <script src="./index.js" type="text/javascript"></script>
+	</body>
+</html>

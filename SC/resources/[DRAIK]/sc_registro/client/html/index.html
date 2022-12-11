@@ -1,0 +1,586 @@
+<html>
+
+<head>
+    <script src="nui://game/ui/jquery.js" type="text/javascript"></script>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="css/all.min.css">
+</head>
+
+<body>
+    <div class = "container">
+        <div id = "closemenu" class="modal">
+        
+           
+        </div>
+        <div id="savemenu" style="height: auto" class="modal">
+           
+            <div class="modal-footer" style = "background-color: Grey;">
+                <!-- <input id="savename" class="input-number col s4" type="text" /> -->
+                <input style="width: 920px; height: 36px; background-color: rgba(49, 49, 49, 0.623)" class="black-text text-lighten-3 panel-label" placeholder=" Nombre de tu atuendo" type="text"/>
+                <!-- <a href="#!" id="savesave" class="modal-close waves-effect waves-light btn green">Ekle</a> -->
+                <a href="#!" id="cancelsave" style="bottom: 4px" class="modal-close waves-effect waves-light btn shadowgrey">Volver</a>
+            </div>
+        </div>
+        <div id="clothesmenu" style="display: none" class="row">
+            <div id="clothes-container" class="col s5">
+                <div id="button_menu" class="row">
+                    <button id="button-clothes" data-target="clothes"
+                        class="button-menu waves-effect waves-light btn-large active">Ropa</button>
+                    <button id="button-access" data-target="access"
+                        class="button-menu waves-effect waves-light btn-large">Accesorios</button>
+                    <button id="button-ped" data-target="ped"
+                        class="button-menu waves-effect waves-light btn-large">GUARDAR</button>
+                </div>
+                <div id="camera_menu" class="row">
+                    <div class="col s12">
+                        <button class="tog_hat col s2 btn-cam waves-effect waves-light btn-large">
+                            <i class="fab fa-redhat"></i>
+                        </button>
+                        <button class="tog_glasses col s2 btn-cam waves-effect waves-light btn-large">
+                            <i class="fas fa-glasses"></i>
+                        </button>
+                        <button class="tog_tops col s2 btn-cam waves-effect waves-light btn-large">
+                            <i class="fas fa-tshirt"></i>
+                        </button>
+                        <button class="tog_head col s2 btn-cam waves-effect waves-light btn-large">
+                            <i class="fas fa-meh"></i>
+                        </button>
+                        <button class="tog_torso col s2 btn-cam waves-effect waves-light btn-large">
+                            <i class="fas fa-user-tie"></i>
+                        </button>
+                        <button class="tog_leg col s2 btn-cam waves-effect waves-light btn-large">
+                            <i class="fas fa-socks"></i>
+                        </button>
+                    </div>
+                </div>
+                <div id="clothes" class="row">
+                    <div class="scroll-container">
+                        <div id="hats" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Gorra</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Cantidad: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="hair" class="hair col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Pelo</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s12">
+                                    <ul class="collapsible">
+                                        <li>
+                                            <div class="collapsible-header">Paleta de Colores</div>
+                                            <div class="collapsible-body color_palette_container haircol"></div>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col s12">
+                                    <ul class="collapsible">
+                                        <li>
+                                            <div class="collapsible-header">2. Paleta de Colores</div>
+                                            <div class="collapsible-body color_palette_container haircol"></div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div> 
+                        <div id="jackets" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Torso</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="undershirts" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">T-Shirt</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="torsos" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Mangas/Guantes</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="legs" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Pantalon</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="shoes" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Zapatos</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="decals" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Pegatinas</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="access" class="row" style="display: none;">
+                    <div class="scroll-container">
+                        <div id="masks" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Máscara</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="glasses" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Gafas</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="earrings" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Pendientes</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="neck" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Bufanda y collar</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="watches" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Relojes</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="braclets" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Pulsera</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="vest" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Chaleco</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="bags" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Mochila</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Tipo: <span
+                                            class="total-number"></span>
+                                    </h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                                <div class="col s6 panel-col">
+                                    <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Color: <span
+                                            class="total-number"></span></h6>
+                                    <button class="button-left col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_left</i>
+                                    </button>
+                                    <input class="input-number col s4" type="number" value="0" />
+                                    <button class="button-right col s4 waves-effect waves-light btn">
+                                        <i class="material-icons">chevron_right</i>
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="ped" class="row" style="display: none;">
+                    <div class="scroll-container">
+                     
+                        <div id="savedclothes" class="col s12 panel">
+                            <div class="col s12 panel-title">
+                                <h6 class="grey-text text-lighten-3 panel-label" style="font-weight: bold;">Guarda tu personaje</h6>
+                            </div>
+                            <div class="col s12 panel-bottom">
+                                <div class="col s12 panel-col">
+                                    <p>Guarda tu ropa.</p>
+                                    <button id="savecurrent" class="waves-effect waves-light btn">GUARDAR</button>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js" type="text/javascript"></script>
+</body>
+
+</html>

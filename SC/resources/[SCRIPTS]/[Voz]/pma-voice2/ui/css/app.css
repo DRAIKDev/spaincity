@@ -1,0 +1,19 @@
+.voiceInfo {
+	font-family: Avenir, Helvetica, Arial, sans-serif;
+	position: fixed;
+	text-align: right;
+	bottom: 5px;
+	padding: 0;
+	right: 5px;
+	font-size: 12px;
+	font-weight: 700;
+	color: #2baaff;
+}
+
+.talking {
+	color: rgb(0, 132, 255)
+}
+
+p {
+	margin: 0
+}

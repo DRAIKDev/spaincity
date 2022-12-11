@@ -1,0 +1,57 @@
+Config = {}
+
+Config.Locale = 'es'
+
+Config.Delays = {
+	WeedProcessing = 1000 * 10,
+	MethProcessing = 1000 * 10,
+	CokeProcessing = 1000 * 10,
+	lsdProcessing = 1000 * 15,
+	HeroinProcessing = 1000 * 10,
+	thionylchlorideProcessing = 1000 * 10,
+}
+
+Config.DrugDealerItems = {
+	heroin = 270,
+	marijuana = 60,
+	meth = 820,
+	coke = 600,
+	lsd = 750,
+}
+
+Config.ChemicalsConvertionItems = {
+	hydrochloric_acid = 0,
+	sodium_hydroxide = 0,
+	sulfuric_acid = 0,
+	lsa = 0,
+}
+
+Config.ChemicalsLicenseEnabled = false --Will Enable or Disable the need for a Chemicals License.
+Config.MoneyWashLicenseEnabled = true --Will Enable or Disable the need for a MoneyWash License.
+
+Config.LicensePrices = {
+	weed_processing = {label = _U('license_weed'), price = 15000}
+}
+
+Config.Licenses = {
+	moneywash = 150000,
+	chemicalslisence = 100000,
+}
+
+Config.GiveBlack = true -- give black money? if disabled it'll give regular cash.
+
+Config.CircleZones = {
+
+
+	--Chemicals
+	ChemicalsField = {coords = vector3(18.1013, -642.0716, 10.7692), name = _U('blip_ChemicalsFarm'), color = 78, sprite = 499, radius = 0.0}, --RECOLECCION QUIMICOS
+	ChemicalsConvertionMenu = {coords = vector3(1443.2737, 6331.7710, 23.9819), name = _U('blip_ChemicalsProcessing'), color = 78, sprite = 499, radius = 0.0}, --QUIMICOS A LSA
+
+	--LSD
+	lsdProcessing = {coords = vector3(2432.145, 4963.396, 42.34761), name = _U('blip_lsdprocessing'),color = 8, sprite = 403, radius = 20.0},
+	
+	--DrugDealer
+	DrugDealer = {coords = vector3(-1133.171, 4948.073, 222.2687), name = _U('blip_drugdealer'), color = 6, sprite = 378, radius = 25.0},
+
+}
+ 

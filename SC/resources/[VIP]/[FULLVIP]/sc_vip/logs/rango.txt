@@ -1,0 +1,859 @@
+﻿
+(20/02/2020 17:49:07) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador a a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 18:09:59) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador a a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 18:13:24) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 20:00:27) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(20/02/2020 20:01:15) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 20:29:25) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(20/02/2020 20:29:47) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 20:33:54) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(20/02/2020 20:34:11) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 21:57:33) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(20/02/2020 21:57:42) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 22:22:06) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(20/02/2020 22:22:18) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 22:34:53) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(20/02/2020 22:35:28) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 22:42:28) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(20/02/2020 22:42:38) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 21-3-2020 
+(20/02/2020 23:09:22) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(20/02/2020 23:09:40) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 16:05:12) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 16:09:21) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 16:09:29) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 16:09:57) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 16:10:02) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 16:14:06) SantiColu - steam:110000134a6c0e4 | Cancelo el rango (oro) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 16:14:15) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 16:25:55) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 16:26:05) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 16:28:08) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 16:28:53) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 16:29:10) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 16:34:05) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 16:34:24) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 16:40:00) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 16:40:02) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 16:40:52) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 16:59:31) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 17:05:21) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 17:12:10) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 17:12:31) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 17:13:03) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 17:13:06) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(21/02/2020 17:14:59) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(21/02/2020 17:18:02) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 22-3-2020 
+(26/02/2020 19:18:56) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 27-3-2020 
+(26/02/2020 19:19:27) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(26/02/2020 19:19:41) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 17-3-2020 
+(26/02/2020 19:20:07) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(26/02/2020 19:20:15) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 17-3-2020 
+(26/02/2020 19:20:28) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(26/02/2020 19:20:35) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 17-3-2020 
+(26/02/2020 19:20:40) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(26/02/2020 19:21:22) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 17-3-2020 
+(26/02/2020 19:21:29) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(26/02/2020 19:21:34) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 17-3-2020 
+(26/02/2020 19:21:46) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(26/02/2020 19:22:31) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador premium a SantiColu - steam:110000134a6c0e4 hasta 17-3-2020 
+(26/02/2020 19:25:32) SantiColu - steam:110000134a6c0e4 | Elimino el rango (premium) de SantiColu - steam:110000134a6c0e4
+(26/02/2020 19:25:38) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 27-3-2020 
+(26/02/2020 22:09:14) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 27-3-2020 
+(26/02/2020 22:13:07) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(26/02/2020 22:13:19) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 27-3-2020 
+(27/02/2020 11:37:29) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 28-3-2020 
+(27/02/2020 11:42:29) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(27/02/2020 11:42:31) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 28-3-2020 
+(27/02/2020 15:09:21) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(27/02/2020 15:09:34) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 28-3-2020 
+(27/02/2020 15:10:24) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(27/02/2020 15:10:31) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 28-3-2020 
+(27/02/2020 15:10:56) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(27/02/2020 15:11:12) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 28-3-2020 
+(27/02/2020 15:11:49) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(27/02/2020 15:11:55) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 28-3-2020 
+(27/02/2020 15:12:25) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(27/02/2020 15:13:28) Juak - steam:11000010b197dce | Le dio rango de donador oro a Juak - steam:11000010b197dce hasta 28-2-2020 
+(27/02/2020 15:13:56) Juak - steam:11000010b197dce | Elimino el rango (oro) de Juak - steam:11000010b197dce
+(27/02/2020 15:15:39) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 28-3-2020 
+(27/02/2020 15:15:46) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(28/02/2020 09:50:07) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Juak - steam:11000010b197dce hasta 23-11-2022 
+(28/02/2020 10:13:28) Juak - steam:11000010b197dce | Elimino el rango (deluxe) de Juak - steam:11000010b197dce
+(28/02/2020 10:34:40) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 29-3-2020 
+(28/02/2020 10:35:21) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(28/02/2020 10:35:25) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 29-3-2020 
+(28/02/2020 10:35:35) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(28/02/2020 10:35:57) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 29-3-2020 
+(28/02/2020 10:36:03) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(28/02/2020 13:58:06) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 29-3-2020 
+(28/02/2020 13:58:22) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(28/02/2020 13:58:29) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 29-3-2020 
+(28/02/2020 13:58:33) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(28/02/2020 14:00:18) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 29-3-2020 
+(28/02/2020 14:00:29) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(28/02/2020 14:00:55) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 29-3-2020 
+(28/02/2020 14:01:06) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(28/02/2020 23:05:40) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(28/02/2020 23:05:58) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(28/02/2020 23:07:09) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(28/02/2020 23:07:17) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 00:07:44) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 00:07:58) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 00:16:46) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 00:17:14) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 10:28:51) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 10:29:07) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:01:45) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:01:56) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:03:04) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:03:12) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:04:13) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:04:29) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:05:05) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:05:11) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:05:48) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:06:19) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:07:04) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:07:14) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:10:52) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:11:05) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:11:14) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:11:55) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:12:12) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:12:25) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:12:58) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:13:03) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:13:25) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:13:27) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:15:23) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:15:35) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:16:59) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:17:10) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:19:55) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:20:10) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:20:36) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:20:41) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 11:21:31) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 11:21:59) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:03:08) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:03:26) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:03:32) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:03:39) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:04:46) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:04:54) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:04:59) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador basico a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:05:03) SantiColu - steam:110000134a6c0e4 | Elimino el rango (basico) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:05:16) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:05:27) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:06:09) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:06:22) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:14:32) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:15:14) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:15:31) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:21:26) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:21:39) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:21:52) SantiColu - steam:110000134a6c0e4 | Elimino el rango (oro) de SantiColu - steam:110000134a6c0e4
+(29/02/2020 15:22:20) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador deluxe a SantiColu - steam:110000134a6c0e4 hasta 30-3-2020 
+(29/02/2020 15:22:29) SantiColu - steam:110000134a6c0e4 | Elimino el rango (deluxe) de SantiColu - steam:110000134a6c0e4
+(03/03/2020 20:41:09) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a EUROPA - steam:11000010d93c946 hasta 2-4-2020 
+(03/03/2020 21:35:17) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Juak - steam:11000010b197dce hasta 19-7-2047 
+(03/03/2020 21:47:01) Juak - steam:11000010b197dce | Cancelo el rango (deluxe) de Juak - steam:11000010b197dce
+(03/03/2020 21:47:07) Juak - steam:11000010b197dce | Elimino el rango (deluxe) de Juak - steam:11000010b197dce
+(04/03/2020 06:31:24) Juak - steam:11000010b197dce | Le dio rango de donador basico a CrazyMan - steam:11000013d5e7ad1 hasta 3-4-2020 
+(04/03/2020 22:18:03) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Un Panadero - steam:11000013fb71b78 hasta 3-4-2020 
+(05/03/2020 03:16:33) Juak - steam:11000010b197dce | Le dio rango de donador premium a Brayan Isidro - steam:1100001178de916 hasta 4-4-2020 
+(06/03/2020 06:57:04) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Edy Morales - steam:11000013a81bf00 hasta 4-7-2020 
+(09/03/2020 03:08:34) Juak - steam:11000010b197dce | Le dio rango de donador premium a TwitchRussoG1 - steam:11000010f5d6e6d hasta 8-4-2020 
+(09/03/2020 03:27:02) Edy - steam:11000013a81bf00 | Le dio rango de donador oro a fabianorozcoyescas2 - steam:11000013f5bb32d hasta 8-4-2020 
+(09/03/2020 05:12:47) Juak - steam:11000010b197dce | Le dio rango de donador oro a Galactic - steam:110000135228ca4 hasta 8-4-2020 
+(09/03/2020 22:47:28) Juak - steam:11000010b197dce | Le dio rango de donador premium a SAME FALOPERO - steam:11000013fb72878 hasta 8-4-2020 
+(09/03/2020 22:53:33) Juak - steam:11000010b197dce | Le dio rango de donador basico a FuriossPlayy - steam:110000132bff85e hasta 8-4-2020 
+(10/03/2020 04:32:26) Juak - steam:11000010b197dce | Le dio rango de donador oro a Pabl1m - steam:1100001029cc5c4 hasta 9-5-2020 
+(10/03/2020 04:41:57) CHIKUNGUNYA - steam:1100001065327d9 | Le dio rango de donador oro a M4rvin- - steam:11000011b2b52ac hasta 9-4-2020 
+(11/03/2020 01:45:13) Juak - steam:11000010b197dce | Le dio rango de donador premium a [CP] Enrike - steam:110000139426b04 hasta 10-4-2020 
+(11/03/2020 14:22:08) Edy - steam:11000013a81bf00 | Le dio rango de donador premium a ElKiwiLeO - steam:11000010581a3eb hasta 10-4-2020 
+(14/03/2020 01:11:01) Juak - steam:11000010b197dce | Le dio rango de donador premium a Pulento - steam:1100001092a5164 hasta 13-4-2020 
+(14/03/2020 05:53:59) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a ElYorketo - steam:110000107267d36 hasta 13-4-2020 
+(14/03/2020 22:50:36) Juak - steam:11000010b197dce | Le dio rango de donador premium a tizianomancini15 - steam:110000134c46efe hasta 13-4-2020 
+(15/03/2020 00:12:38) Juak - steam:11000010b197dce | Le dio rango de donador oro a Agus - steam:1100001325404a3 hasta 14-4-2020 
+(15/03/2020 00:28:20) Juak - steam:11000010b197dce | Le dio rango de donador premium a Kodi - steam:110000136b78623 hasta 14-4-2020 
+(15/03/2020 01:00:13) Juak - steam:11000010b197dce | Le dio rango de donador oro a AgusKorePah - steam:1100001364b4289 hasta 14-4-2020 
+(15/03/2020 08:17:57) Juak - steam:11000010b197dce | Elimino el rango (basico) de FuriossPlayy - steam:110000132bff85e
+(15/03/2020 08:18:11) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a FuriossPlayy - steam:110000132bff85e hasta 14-4-2020 
+(15/03/2020 09:00:34) Juak - steam:11000010b197dce | Le dio rango de donador premium a joseroberto - steam:11000013cb281fc hasta 14-4-2020 
+(15/03/2020 09:45:54) KanKuz - steam:1100001083ccf50 | Elimino el rango (deluxe) de FuriossPlayy - steam:110000132bff85e
+(15/03/2020 09:46:25) KanKuz - steam:1100001083ccf50 | Le dio rango de donador deluxe a FuriossPlayy - steam:110000132bff85e hasta 14-4-2020 
+(16/03/2020 05:52:32) Juak - steam:11000010b197dce | Le dio rango de donador oro a adanguevara7 - steam:11000013f4caf89 hasta 15-4-2020 
+(16/03/2020 12:32:26) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Xbaruk - steam:11000011a3078ff hasta 15-4-2020 
+(16/03/2020 13:23:13) Juak - steam:11000010b197dce | Le dio rango de donador premium a ezequiel23 - steam:11000013f7c756c hasta 15-4-2020 
+(17/03/2020 00:29:26) Juak - steam:11000010b197dce | Le dio rango de donador premium a DaniBloom - steam:11000011be42d76 hasta 16-4-2020 
+(17/03/2020 03:47:29) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Drograditoo - steam:11000013fab4c31 hasta 16-4-2020 
+(18/03/2020 00:06:02) KanKuz - steam:1100001083ccf50 | Le dio rango de donador básico a CrazyMan - steam:11000013d5e7ad1 hasta 17-4-2020 
+(18/03/2020 03:17:54) Juak - steam:11000010b197dce | Le dio rango de donador basico a EL PERRO DE RIVER - steam:110000118daf819 hasta 17-4-2020 
+(19/03/2020 01:51:07) Juak - steam:11000010b197dce | Le dio rango de donador basico a bytalking0 - steam:11000013f472417 hasta 18-4-2020 
+(19/03/2020 01:54:47) Juak - steam:11000010b197dce | Le dio rango de donador premium a esteban6hj - steam:1100001160e234e hasta 18-4-2020 
+(19/03/2020 03:46:53) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Koat69 - steam:11000013c732f03 hasta 18-4-2020 
+(20/03/2020 03:25:31) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador basico a Marcelo Polino - steam:1100001154d56a5 hasta 19-4-2020 
+(20/03/2020 05:15:50) Juak - steam:11000010b197dce | Le dio rango de donador basico a PAMPEANO  NVJ - steam:11000013b700b0c hasta 19-4-2020 
+(20/03/2020 06:07:19) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador basico a Curtíss - steam:1100001354d92eb hasta 19-4-2020 
+(20/03/2020 20:39:20) Juak - steam:11000010b197dce | Le dio rango de donador oro a Alaannn05 - steam:11000013db597d1 hasta 19-4-2020 
+(20/03/2020 21:34:15) Juak - steam:11000010b197dce | Le dio rango de donador basico a Churrasco - steam:11000010b64ec42 hasta 19-4-2020 
+(20/03/2020 21:34:20) Juak - steam:11000010b197dce | Le dio rango de donador basico a Benja - steam:110000111a60785 hasta 19-4-2020 
+(20/03/2020 21:34:26) Juak - steam:11000010b197dce | Le dio rango de donador basico a CheLoL - steam:11000010267cbd4 hasta 19-4-2020 
+(20/03/2020 22:27:05) Juak - steam:11000010b197dce | Cancelo el rango (basico) de CheLoL - steam:11000010267cbd4
+(20/03/2020 22:27:13) Juak - steam:11000010b197dce | Elimino el rango (basico) de CheLoL - steam:11000010267cbd4
+(20/03/2020 22:27:49) Juak - steam:11000010b197dce | Le dio rango de donador oro a CheLoL - steam:11000010267cbd4 hasta 19-4-2020 
+(20/03/2020 23:50:51) Santex08 - steam:11000013d4ef4bc | Cancelo el rango (basico) de Curtíss - steam:1100001354d92eb
+(20/03/2020 23:55:04) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador medium a Santex08 - steam:11000013d4ef4bc hasta 20-4-2020 
+(20/03/2020 23:55:27) Santex08 - steam:11000013d4ef4bc | Cancelo el rango (medium) de Santex08 - steam:11000013d4ef4bc
+(20/03/2020 23:55:52) Santex08 - steam:11000013d4ef4bc | Cancelo el rango (basico) de Curtíss - steam:1100001354d92eb
+(20/03/2020 23:56:38) Santex08 - steam:11000013d4ef4bc | Elimino el rango (basico) de Curtíss - steam:1100001354d92eb
+(20/03/2020 23:56:59) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a Curtíss - steam:1100001354d92eb hasta 20-4-2020 
+(21/03/2020 02:38:38) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a El Ye - steam:11000011bd8aef5 hasta 22-3-2020 
+(21/03/2020 03:36:24) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a ElPata Medina - steam:1100001349acbf9 hasta 20-4-2020 
+(21/03/2020 09:21:42) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador basico a vicentico105 - steam:11000013e42bbca hasta 20-4-2020 
+(21/03/2020 18:31:08) Juak - steam:11000010b197dce | Cancelo el rango (basico) de Marcelo Polino - steam:1100001154d56a5
+(21/03/2020 18:31:12) Juak - steam:11000010b197dce | Elimino el rango (basico) de Marcelo Polino - steam:1100001154d56a5
+(21/03/2020 18:31:20) Juak - steam:11000010b197dce | Le dio rango de donador oro a Marcelo Polino - steam:1100001154d56a5 hasta 17-4-2020 
+(21/03/2020 21:21:08) Juak - steam:11000010b197dce | Le dio rango de donador basico a Rod - steam:110000118da22e6 hasta 20-4-2020 
+(21/03/2020 22:06:43) Juak - steam:11000010b197dce | Le dio rango de donador basico a Potaku - steam:11000013770e9fd hasta 20-4-2020 
+(21/03/2020 22:46:54) Juak - steam:11000010b197dce | Le dio rango de donador basico a Lana Rhoades - steam:11000013edbfeb3 hasta 20-4-2020 
+(21/03/2020 22:52:03) Juak - steam:11000010b197dce | Le dio rango de donador premium a SpFFuZzionz - steam:11000013f568c7d hasta 20-4-2020 
+(21/03/2020 23:13:37) Santex08 - steam:11000013d4ef4bc | Elimino el rango (basico) de vicentico105 - steam:11000013e42bbca
+(21/03/2020 23:14:11) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a vicentico105 - steam:11000013e42bbca hasta 21-4-2020 
+(21/03/2020 23:39:12) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a xTomaas - steam:110000114a6fdff hasta 21-4-2020 
+(22/03/2020 01:47:28) Santex08 - steam:11000013d4ef4bc | Cancelo el rango (premium) de SpFFuZzionz - steam:11000013f568c7d
+(22/03/2020 01:49:03) Santex08 - steam:11000013d4ef4bc | Elimino el rango (premium) de SpFFuZzionz - steam:11000013f568c7d
+(22/03/2020 01:49:18) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a SpFFuZzionz - steam:11000013f568c7d hasta 21-4-2020 
+(22/03/2020 04:01:29) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Nadim_AKD - steam:11000013fce966b hasta 23-3-2020 
+(22/03/2020 04:10:39) Santex08 - steam:11000013d4ef4bc | Cancelo el rango (deluxe) de Nadim_AKD - steam:11000013fce966b
+(22/03/2020 04:10:51) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de Nadim_AKD - steam:11000013fce966b
+(22/03/2020 06:02:21) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a Westcoast G - steam:11000011b06003f hasta 21-4-2020 
+(22/03/2020 08:34:57) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Coyote - steam:11000013fc0664f hasta 23-3-2020 
+(22/03/2020 08:36:20) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a DEDITO PA RRIBA - steam:1100001340c2f0e hasta 21-4-2020 
+(22/03/2020 09:15:09) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Nadim_AKD - steam:11000013fce966b hasta 23-3-2020 
+(22/03/2020 09:26:26) Santex08 - steam:11000013d4ef4bc | Cancelo el rango (deluxe) de Nadim_AKD - steam:11000013fce966b
+(22/03/2020 09:26:33) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de Nadim_AKD - steam:11000013fce966b
+(22/03/2020 23:31:06) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a bautistaiglesias - steam:110000116a2a362 hasta 22-4-2020 
+(22/03/2020 23:38:43) Juak - steam:11000010b197dce | Cancelo el rango (oro) de Alaannn05 - steam:11000013db597d1
+(22/03/2020 23:38:48) Juak - steam:11000010b197dce | Elimino el rango (oro) de Alaannn05 - steam:11000013db597d1
+(22/03/2020 23:38:55) Juak - steam:11000010b197dce | Le dio rango de donador premium a Alaannn05 - steam:11000013db597d1 hasta 22-4-2020 
+(23/03/2020 02:22:17) Santex08 - steam:11000013d4ef4bc | Cancelo el rango (deluxe) de Coyote - steam:11000013fc0664f
+(23/03/2020 02:22:27) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de Coyote - steam:11000013fc0664f
+(23/03/2020 02:28:01) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a T.tv/Exudian - steam:110000109e2b37c hasta 22-4-2020 
+(23/03/2020 02:48:17) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Nikolas. - steam:11000013d563018 hasta 22-4-2020 
+(23/03/2020 03:28:55) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a fise - steam:11000010df96479 hasta 24-3-2020 
+(23/03/2020 03:44:00) Santex08 - steam:11000013d4ef4bc | Cancelo el rango (deluxe) de fise - steam:11000010df96479
+(23/03/2020 03:44:08) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de fise - steam:11000010df96479
+(23/03/2020 05:17:09) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a FR4NKz - steam:110000119855055 hasta 24-3-2020 
+(23/03/2020 05:28:10) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Tomsoo - steam:11000011a0b9abd hasta 24-3-2020 
+(23/03/2020 05:35:08) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de FR4NKz - steam:110000119855055
+(23/03/2020 05:57:44) Santex08 - steam:11000013d4ef4bc | Cancelo el rango (deluxe) de Tomsoo - steam:11000011a0b9abd
+(23/03/2020 05:57:52) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de Tomsoo - steam:11000011a0b9abd
+(23/03/2020 08:18:48) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Carsman - steam:110000109592660 hasta 24-3-2020 
+(23/03/2020 08:21:32) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a El Palomo Nazi - steam:11000010421b55f hasta 24-3-2020 
+(23/03/2020 08:22:55) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de Carsman - steam:110000109592660
+(23/03/2020 08:57:41) Santex08 - steam:11000013d4ef4bc | Elimino el rango (premium) de Westcoast G - steam:11000011b06003f
+(23/03/2020 19:23:00) Juak - steam:11000010b197dce | Le dio rango de donador premium a joaqo.colombo - steam:11000013fd7cd92 hasta 22-4-2020 
+(24/03/2020 05:27:21) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a Westcoast G - steam:11000011b06003f hasta 23-4-2020 
+(24/03/2020 05:36:25) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a CERRO - steam:11000010bf695b0 hasta 23-4-2020 
+(24/03/2020 14:32:30) Santex08 - steam:11000013d4ef4bc | Elimino el rango (oro) de ElPata Medina - steam:1100001349acbf9
+(24/03/2020 14:33:02) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a ElPata Medina - steam:1100001349acbf9 hasta 20-4-2020 
+(24/03/2020 22:56:39) Edy - steam:11000013a81bf00 | Le dio rango de donador basico a S4nty - steam:11000013eb761d5 hasta 23-4-2020 
+(24/03/2020 23:31:28) Santex08 - steam:11000013d4ef4bc | Elimino el rango (premium) de Westcoast G - steam:11000011b06003f
+(24/03/2020 23:31:41) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a Westcoast G - steam:11000011b06003f hasta 24-4-2020 
+(24/03/2020 23:48:23) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Twitch IvoXxX - steam:1100001059bbeb3 hasta 24-4-2020 
+(26/03/2020 04:50:16) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Carsman - steam:110000109592660 hasta 27-3-2020 
+(26/03/2020 05:15:00) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de Carsman - steam:110000109592660
+(26/03/2020 05:50:58) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a ElRengo - steam:110000119ea95b2 hasta 25-4-2020 
+(26/03/2020 08:23:44) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador dekuxe a Carsman - steam:110000109592660 hasta 27-3-2020 
+(26/03/2020 08:31:28) Santex08 - steam:11000013d4ef4bc | Elimino el rango (dekuxe) de Carsman - steam:110000109592660
+(27/03/2020 23:03:15) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a magrini - steam:11000010ebc3f24 hasta 27-4-2020 
+(28/03/2020 00:20:23) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a CAPHard - steam:11000010e8a878b hasta 27-4-2020 
+(28/03/2020 00:24:15) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Amaro - steam:11000010981d148 hasta 27-4-2020 
+(28/03/2020 03:17:50) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a Matuelo - steam:11000010b7a7f85 hasta 27-4-2020 
+(28/03/2020 22:59:57) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Carsman - steam:110000109592660 hasta 27-4-2020 
+(29/03/2020 03:51:58) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador basico a plaga - steam:11000011b644b4c hasta 28-4-2020 
+(29/03/2020 19:28:45) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Trippie Redd | Twitch: SrTrhutv1 - steam:11000010a20d160 hasta 28-4-2020 
+(29/03/2020 19:47:33) Juak - steam:11000010b197dce | Le dio rango de donador premium a Reivaxx - steam:11000013f308321 hasta 28-4-2020 
+(29/03/2020 22:21:42) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a GordoForro - steam:11000013dd62b55 hasta 28-4-2020 
+(30/03/2020 02:11:05) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a ✪ Nachota - steam:11000010b2ab46b hasta 29-4-2020 
+(30/03/2020 02:49:47) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador basico a waik1nG - steam:1100001062f1310 hasta 29-4-2020 
+(30/03/2020 05:02:39) Juak - steam:11000010b197dce | Le dio rango de donador fundador a Juak - steam:11000010b197dce hasta 31-3-2020 
+(30/03/2020 05:02:48) Juak - steam:11000010b197dce | Elimino el rango (fundador) de Juak - steam:11000010b197dce
+(30/03/2020 05:39:48) Santex08 - steam:11000013d4ef4bc | Elimino el rango (premium) de vicentico105 - steam:11000013e42bbca
+(30/03/2020 05:40:19) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador fundador a vicentico105 - steam:11000013e42bbca hasta 29-4-2020 
+(30/03/2020 07:43:20) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a Manshi - steam:11000011d111b88 hasta 29-4-2020 
+(30/03/2020 22:08:39) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a Tosca! - steam:1100001065e2461 hasta 29-4-2020 
+(30/03/2020 23:32:29) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Santex08 - steam:11000013d4ef4bc hasta 31-3-2020 
+(30/03/2020 23:33:50) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de Santex08 - steam:11000013d4ef4bc
+(31/03/2020 05:56:17) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador fundador a Kaito[Sama][ - steam:1100001197acde4 hasta 30-4-2020 
+(01/04/2020 03:38:10) Juak - steam:11000010b197dce | Le dio rango de donador oro a Alfox - steam:1100001147e5369 hasta 1-5-2020 
+(01/04/2020 12:21:29) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de ✪ Nachota - steam:11000010b2ab46b
+(01/04/2020 12:21:41) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador fundador a ✪ Nachota - steam:11000010b2ab46b hasta 1-5-2020 
+(01/04/2020 20:47:25) Juak - steam:11000010b197dce | Le dio rango de donador oro a gastongenaisir - steam:1100001100ccb84 hasta 1-5-2020 
+(01/04/2020 22:41:37) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Zaka - steam:110000113e673ee hasta 2-4-2020 
+(01/04/2020 23:37:17) Santex08 - steam:11000013d4ef4bc | Elimino el rango (deluxe) de Zaka - steam:110000113e673ee
+(03/04/2020 00:17:13) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador basico a How - steam:1100001081d9856 hasta 3-5-2020 
+(03/04/2020 04:00:39) Juak - steam:11000010b197dce | Le dio rango de donador oro a Pabloo - steam:1100001349d7e93 hasta 3-5-2020 
+(03/04/2020 06:37:37) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador basico a Carsman - steam:110000109592660 hasta 3-5-2020 
+(03/04/2020 06:41:47) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a xXPaskyGamer69Xx - steam:11000013461ddb1 hasta 3-5-2020 
+(03/04/2020 08:03:48) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a Santiivan - steam:11000010d16012d hasta 3-5-2020 
+(03/04/2020 08:32:53) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a Cynicalツ - steam:11000013eca847b hasta 3-5-2020 
+(03/04/2020 08:56:56) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a JoaTense - steam:11000013feea625 hasta 3-5-2020 
+(04/04/2020 03:02:04) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a Negro - steam:11000010f0ff29b hasta 4-5-2020 
+(04/04/2020 04:43:12) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a NoName - steam:11000010f6f6f8d hasta 4-5-2020 
+(04/04/2020 07:21:31) Santex08 - steam:11000013d4ef4bc | Elimino el rango (oro) de Cynicalツ - steam:11000013eca847b
+(04/04/2020 07:21:56) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a Cynicalツ - steam:11000013eca847b hasta 4-5-2020 
+(04/04/2020 20:41:50) Juak - steam:11000010b197dce | Le dio rango de donador basico a flaco300 - steam:11000013356d5e7 hasta 4-5-2020 
+(05/04/2020 00:11:59) Juak - steam:11000010b197dce | Le dio rango de donador basico a Cesar_Alodi - steam:110000132629ea2 hasta 5-5-2020 
+(05/04/2020 04:06:58) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a ☆ MzQ ☆ - steam:11000013ceed501 hasta 5-5-2020 
+(05/04/2020 08:16:27) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a simontornabene - steam:110000137344e69 hasta 5-5-2020 
+(07/04/2020 00:14:10) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a ELE CHARANGO - steam:11000011227145d hasta 7-5-2020 
+(07/04/2020 06:03:17) Juak - steam:11000010b197dce | Le dio rango de donador oro a IngKillers - steam:110000111f0999e hasta 7-5-2020 
+(07/04/2020 07:27:54) Santex08 - steam:11000013d4ef4bc | Elimino el rango (oro) de Marcelo Polino - steam:1100001154d56a5
+(07/04/2020 07:28:03) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a Marcelo Polino - steam:1100001154d56a5 hasta 7-5-2020 
+(07/04/2020 08:09:32) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a Kim Jong-un - steam:11000010b288202 hasta 7-5-2020 
+(07/04/2020 23:13:56) iVendoPalomas - steam:110000113b43597 | Le dio rango de donador fundador a Rabiol Salvaje - steam:11000010a481baa hasta 7-5-2020 
+(08/04/2020 01:38:26) Juak - steam:11000010b197dce | Le dio rango de donador premium a Juak - steam:11000010b197dce hasta 8-5-2020 
+(08/04/2020 02:36:41) Juak - steam:11000010b197dce | Le dio rango de donador fundador a MuDaK - steam:11000010ea2a344 hasta 8-5-2020 
+(08/04/2020 20:25:17) Juak - steam:11000010b197dce | Le dio rango de donador premium a HypeR👑MaCr3aD0 - steam:110000107d96ed7 hasta 9-4-2020 
+(08/04/2020 20:26:17) Juak - steam:11000010b197dce | Elimino el rango (premium) de HypeR👑MaCr3aD0 - steam:110000107d96ed7
+(08/04/2020 20:39:44) Juak - steam:11000010b197dce | Le dio rango de donador premium a alucard - steam:11000013ed01fc5 hasta 8-5-2020 
+(08/04/2020 21:34:17) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a 1999 - steam:11000013da95ffb hasta 8-5-2020 
+(08/04/2020 22:11:47) iVendoPalomas - steam:110000113b43597 | Le dio rango de donador oro a Waterfront Dining - steam:11000010821b052 hasta 8-5-2020 
+(09/04/2020 01:28:45) Juak - steam:11000010b197dce | Elimino el rango (premium) de Juak - steam:11000010b197dce
+(09/04/2020 06:05:22) Juak - steam:11000010b197dce | Le dio rango de donador premium a x6tense mortero bala - steam:11000011715e92a hasta 9-5-2020 
+(10/04/2020 02:50:13) Juak - steam:11000010b197dce | Le dio rango de donador premium a facugoro - steam:110000118c329fe hasta 10-5-2020 
+(10/04/2020 05:05:33) Juak - steam:11000010b197dce | Le dio rango de donador premium a Juak - steam:11000010b197dce hasta 10-5-2020 
+(10/04/2020 06:23:55) SantiColu - steam:110000134a6c0e4 | Le dio rango de donador oro a SantiColu - steam:110000134a6c0e4 hasta 12-4-2020 
+(11/04/2020 00:44:36) Juak - steam:11000010b197dce | Le dio rango de donador oro a Max - steam:11000010e82acc3 hasta 11-5-2020 
+(15/04/2020 20:43:40) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a josefrasca1405 - steam:1100001400c6838 hasta 15-5-2020 
+(15/04/2020 20:51:00) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a YeyeXPR - steam:11000013db62bea hasta 15-5-2020 
+(18/04/2020 18:35:38) Juak - steam:11000010b197dce | Le dio rango de donador basico a iFerARG - steam:110000133aec40f hasta 18-5-2020 
+(21/04/2020 06:22:32) Juak - steam:11000010b197dce | Le dio rango de donador premium a schrodinger’s douchebag - steam:11000010e2cd1ce hasta 21-5-2020 
+(23/04/2020 17:09:54) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador deluxe a twitch/virtualchimera - steam:11000013d932ab6 hasta 23-5-2020 
+(28/04/2020 02:20:15) Juak - steam:11000010b197dce | Le dio rango de donador basico a Cook - steam:1100001053fe524 hasta 28-5-2020 
+(28/04/2020 02:20:23) Juak - steam:11000010b197dce | Le dio rango de donador basico a enzow0w - steam:1100001053fe522 hasta 28-5-2020 
+(28/04/2020 04:07:43) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a lucascena03 - steam:11000013bf0e36d hasta 28-5-2020 
+(28/04/2020 04:18:17) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador oro a tomibench - steam:1100001133fc0a4 hasta 28-5-2020 
+(28/04/2020 22:17:41) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a Giovanni10 - steam:11000013cec9f07 hasta 28-5-2020 
+(29/04/2020 02:37:10) iVendoPalomas - steam:110000113b43597 | Le dio rango de donador basico a Pupe10_ - steam:11000010e1ffc6b hasta 29-5-2020 
+(29/04/2020 04:17:53) Juak - steam:11000010b197dce | Elimino el rango (fundador) de Juak - steam:11000010b197dce
+(29/04/2020 04:18:03) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Juak - steam:11000010b197dce hasta 29-5-2020 
+(29/04/2020 04:18:38) Juak - steam:11000010b197dce | Elimino el rango (deluxe) de Juak - steam:11000010b197dce
+(29/04/2020 04:19:06) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a Juak - steam:11000010b197dce hasta 29-5-2020 
+(30/04/2020 10:43:15) Fede - steam:11000010a20d160 | Le dio rango de donador basico a normaboscolo - steam:11000010c8ae40e hasta 30-5-2020 
+(30/04/2020 13:02:01) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador basico a Wuanobi - steam:11000013cd58988 hasta 30-5-2020 
+(30/04/2020 18:04:44) Juak - steam:11000010b197dce | Le dio rango de donador oro a Gabiitto_ - steam:11000013f33a2b9 hasta 30-5-2020 
+(30/04/2020 22:32:16) Santex08 - steam:11000013d4ef4bc | Elimino el rango (basico) de Pupe10_ - steam:11000010e1ffc6b
+(30/04/2020 22:32:23) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador premium a Pupe10_ - steam:11000010e1ffc6b hasta 30-5-2020 
+(30/04/2020 23:44:31) Lezinn - steam:11000010aff33f0 | Le dio rango de donador deluxe a MAXI__ - steam:11000013f568c7d hasta 30-5-2020 
+(01/05/2020 07:10:19) Santex08 - steam:11000013d4ef4bc | Le dio rango de donador fundador a KaitoSama12 - steam:1100001197acde4 hasta 16-9-2047 
+(02/05/2020 06:34:39) Juak - steam:11000010b197dce | Le dio rango de donador premium a ricoysuave - steam:11000013feeced3 hasta 1-6-2020 
+(03/05/2020 01:36:32) gabrielmercurio - steam:110000133009dbc | Le dio rango de donador premium a Peron - steam:11000010a53a395 hasta 2-6-2020 
+(04/05/2020 19:11:22) gabrielmercurio - steam:110000133009dbc | Le dio rango de donador oro a pOwErCiTo - steam:1100001100ccb84 hasta 3-6-2020 
+(05/05/2020 10:12:35) Juak - steam:11000010b197dce | Le dio rango de donador premium a Neili - steam:110000107d96ed7 hasta 4-6-2020 
+(06/05/2020 01:23:39) gabrielmercurio - steam:110000133009dbc | Le dio rango de donador básico a Carragal - steam:1100001141154d4 hasta 5-6-2020 
+(06/05/2020 01:54:57) Lezinn - steam:11000010aff33f0 | Le dio rango de donador premium a Ivoxxx - steam:1100001089d79d7 hasta 5-6-2020 
+(06/05/2020 23:35:59) iVendoPalomas - steam:110000113b43597 | Le dio rango de donador oro a Pablo - steam:1100001080d0b0a hasta 5-6-2020 
+(08/05/2020 01:14:20) gabrielmercurio - steam:110000133009dbc | Le dio rango de donador premium a pr0ject - steam:110000109074cb7 hasta 7-6-2020 
+(08/05/2020 15:33:20) Juak - steam:11000010b197dce | Le dio rango de donador oro a Speen - steam:11000010c799114 hasta 7-6-2020 
+(20/05/2020 19:50:14) Juak - steam:11000010b197dce | Le dio rango de donador oro a Juak - steam:11000010b197dce hasta 19-6-2020 
+(20/05/2020 19:50:16) Juak - steam:11000010b197dce | Elimino el rango (oro) de Juak - steam:11000010b197dce
+(20/05/2020 19:51:35) Juak - steam:11000010b197dce | Le dio rango de donador oro a Juak - steam:11000010b197dce hasta 19-6-2020 
+(20/05/2020 19:57:36) Juak - steam:11000010b197dce | Le dio rango de donador oro a Juak - steam:11000010b197dce hasta 19-6-2020 
+(20/05/2020 19:58:20) Juak - steam:11000010b197dce | Elimino el rango (oro) de Juak - steam:11000010b197dce
+(20/05/2020 20:06:06) Juak - steam:11000010b197dce | Le dio rango de donador fundador a Juak - steam:11000010b197dce hasta 19-6-2020 
+(21/05/2020 06:05:51) Juak - steam:11000010b197dce | Le dio rango de donador fundador a Juak - steam:11000010b197dce hasta 6-10-2047 
+(22/05/2020 05:06:24) Juak - steam:11000010b197dce | Le dio rango de donador fundador a Sevillano - steam:11000010af54196 hasta 7-10-2047 
+(22/05/2020 05:06:40) Juak - steam:11000010b197dce | Le dio rango de donador deluxe a _miguiii11 - steam:11000010b96fcaf hasta 7-10-2047 
+(30/05/2020 10:38:05) Sevillano - steam:11000010af54196 | Elimino el rango (fundador) de Sevillano - steam:11000010af54196
+(30/05/2020 10:38:15) Sevillano - steam:11000010af54196 | Le dio rango de donador fundador a Sevillano - steam:11000010af54196 hasta 29-6-2020 
+(05/06/2020 02:46:15) Juak - steam:11000010b197dce | Le dio rango de donador fundador a pa1NLESS - steam:11000013f11338e hasta 5-7-2020 
+(05/06/2020 02:51:49) Juak - steam:11000010b197dce | Le dio rango de donador fundador a aimRxiskO - steam:110000104e6f8d0 hasta 5-7-2020 
+(06/06/2020 09:16:50) Sor Rita - steam:1100001360c18d5 | Le dio rango de donador c a Sor Rita - steam:1100001360c18d5 hasta 22-3-2294 
+(14/08/2020 10:48:18) las cosas como son... - steam:1100001355bc25a | Le dio rango de donador 1 a las cosas como son... - steam:1100001355bc25a hasta 13-9-2020 
+(14/08/2020 11:19:34) las cosas como son... - steam:1100001355bc25a | Elimino el rango (1) de las cosas como son... - steam:1100001355bc25a
+(14/08/2020 11:19:50) las cosas como son... - steam:1100001355bc25a | Le dio rango de donador a a las cosas como son... - steam:1100001355bc25a hasta 15-8-2020 
+(14/08/2020 15:10:07) Paco. - steam:11000013c903cdb | Le dio rango de donador a a Paco. - steam:11000013c903cdb hasta 13-9-2020 
+(15/08/2020 12:26:52) Juakka - steam:11000010b197dce | Le dio rango de donador a a Juakka - steam:11000010b197dce hasta 16-8-2020 
+(15/08/2020 12:27:13) Juakka - steam:11000010b197dce | Elimino el rango (a) de Juakka - steam:11000010b197dce
+(15/08/2020 16:31:27) Paco. - steam:11000013c903cdb | Le dio rango de donador a a ! Francisss - steam:11000013f139fcb hasta 16-8-2020 
+(15/08/2020 16:33:39) Paco. - steam:11000013c903cdb | Le dio rango de donador c a Paco. - steam:11000013c903cdb hasta 15-8-2021 
+(16/08/2020 11:37:56) AurelioKing - steam:11000013d0c499a | Le dio rango de donador basico a AurelioKing - steam:11000013d0c499a hasta 31-8-2020 
+(16/08/2020 19:47:27) AurelioKing - steam:11000013d0c499a | Elimino el rango (basico) de AurelioKing - steam:11000013d0c499a
+(16/08/2020 19:47:28) AurelioKing - steam:11000013d0c499a | Le dio rango de donador fundador a AurelioKing - steam:11000013d0c499a hasta 31-8-2020 
+(17/08/2020 11:41:06) gaydeturno12 - steam:11000013d0c499a | Elimino el rango (fundador) de gaydeturno12 - steam:11000013d0c499a
+(17/08/2020 18:34:42) Juakka - steam:11000010b197dce | Le dio rango de donador premium a Ramoncin - steam:110000117d0362e hasta 16-9-2020 
+(18/08/2020 10:50:38) AurelioKing - steam:11000013d0c499a | Le dio rango de donador deluxe a PlatanitoStyle - steam:110000119f0cc5d hasta 17-9-2020 
+(19/08/2020 08:04:35) Paco - steam:11000013c903cdb | Le dio rango de donador premiun a Paco - steam:11000013c903cdb hasta 18-9-2020 
+(19/08/2020 11:10:07) Juakka - steam:11000010b197dce | Le dio rango de donador premium a iCharliiYZF - steam:11000010ad03c69 hasta 18-9-2020 
+(21/08/2020 05:08:59) Juakka - steam:11000010b197dce | Le dio rango de donador fundador a Aspra - steam:110000108380bae hasta 20-10-2020 
+(22/08/2020 15:13:05) Juakka - steam:11000010b197dce | Le dio rango de donador oro a joudy1707 - steam:110000140e82664 hasta 21-9-2020 
+(22/08/2020 17:18:48) Juakka - steam:11000010b197dce | Le dio rango de donador premium a MagicMike - steam:11000010492ab08 hasta 21-9-2020 
+(23/08/2020 22:28:58) Juakka - steam:11000010b197dce | Le dio rango de donador premium a jodedor2017 - steam:11000013d4b2bec hasta 22-9-2020 
+(25/08/2020 00:20:50) Yosoycani - steam:11000013d0c499a | Le dio rango de donador fundador a jositogay31 - steam:11000014304e723 hasta 24-9-2020 
+(25/08/2020 17:37:08) Juakka - steam:11000010b197dce | Le dio rango de donador oro a Alexbless - steam:110000141afabdd hasta 24-9-2020 
+(27/08/2020 13:06:34) Paco - steam:11000013c903cdb | Le dio rango de donador Basico a antoniotorreroyoutubr - steam:110000141d8a5e9 hasta 11-9-2020 
+(28/08/2020 20:26:45) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador c a SoyunHombreFranco - steam:1100001355bc25a hasta 29-8-2020 
+(30/08/2020 23:33:35) Juakka - steam:11000010b197dce | Le dio rango de donador deluxe a lucatonielpros - steam:11000014272bd18 hasta 29-9-2020 
+(31/08/2020 00:15:50) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador premium a hablo español hellcase.com - steam:11000013c7b5b07 hasta 30-9-2020 
+(03/09/2020 22:00:25) Tyler D. - steam:1100001417bad96 | Le dio rango de donador premium a BBeam - steam:1100001180eccae hasta 3-10-2020 
+(06/09/2020 15:33:19) PaKito - steam:11000013c903cdb | Le dio rango de donador Premiun a Taps. - steam:1100001359d8196 hasta 6-10-2020 
+(06/09/2020 15:38:13) PaKito - steam:11000013c903cdb | Elimino el rango (Premiun) de Taps. - steam:1100001359d8196
+(06/09/2020 15:38:27) PaKito - steam:11000013c903cdb | Le dio rango de donador premium a Taps. - steam:1100001359d8196 hasta 6-10-2020 
+(13/09/2020 20:10:29) nrwwls123 - steam:11000013d0c499a | Le dio rango de donador premium a noticiaslocashd1 - steam:110000140329cec hasta 13-10-2020 
+(16/09/2020 15:09:36) Pacoʳʰˡᵐ - steam:11000013c903cdb | Le dio rango de donador oro a sebaszapc29 - steam:11000013fec1357 hasta 16-10-2020 
+(16/09/2020 15:36:44) Pacoʳʰˡᵐ - steam:11000013c903cdb | Le dio rango de donador fundador a Pacoʳʰˡᵐ - steam:11000013c903cdb hasta 16-10-2020 
+(16/09/2020 15:37:14) Pacoʳʰˡᵐ - steam:11000013c903cdb | Le dio rango de donador fundador a Diego Gonzalez - steam:1100001322694b7 hasta 16-10-2020 
+(17/09/2020 14:58:22) Diego Gonzalez - steam:1100001322694b7 | Le dio rango de donador fundador a jereezj - steam:11000014322923a hasta 16-11-2020 
+(19/09/2020 20:12:51) SoyunHombreFranco - steam:1100001355bc25a | Elimino el rango (fundador) de joossitoo - steam:11000014304e723
+(19/09/2020 20:13:05) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador fundador a joossitoo - steam:11000014304e723 hasta 2-2-2842 
+(21/09/2020 16:20:52) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador premium a *Darkness* - steam:110000132021f89 hasta 4-2-2842 
+(23/09/2020 16:16:44) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador oro a mapachito05 - steam:1100001198265e4 hasta 14-6-10234 
+(23/09/2020 23:29:45) Tyler H.💥🉐 - steam:1100001417bad96 | Le dio rango de donador oro a mapachito05 - steam:1100001198265e4 hasta 23-10-2020 
+(24/09/2020 09:38:29) Paco - steam:11000013c903cdb | Le dio rango de donador premium a ^1Y i s u s - steam:11000013d4f44c2 hasta 24-10-2020 
+(24/09/2020 18:38:38) Paco - steam:11000013c903cdb | Le dio rango de donador premium a DAMQ - steam:1100001326b2d3f hasta 20-6-2023 
+(24/09/2020 21:18:26) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador premium a yaderv215 - steam:11000013f339daa hasta 14-11-2102 
+(26/09/2020 10:50:59) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador premium a Swinned - steam:1100001333efc8a hasta 16-11-2102 
+(26/09/2020 15:54:48) LagarTos - steam:11000014248ea3e | Le dio rango de donador premium a Jossytto - steam:110000114cf9dc1 hasta 9-2-2842 
+(26/09/2020 21:21:53) Paco - steam:11000013c903cdb | Le dio rango de donador deluxe a por estafadol - steam:11000013fa2a720 hasta 22-6-2023 
+(28/09/2020 14:25:44) Paco - steam:11000013c903cdb | Le dio rango de donador oro a Gabixpdx - steam:11000011377a8b4 hasta 24-6-2023 
+(28/09/2020 20:09:59) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador fundador a Jevncitou - steam:1100001430f851c hasta 11-2-2842 
+(29/09/2020 13:14:50) Paco - steam:11000013c903cdb | Le dio rango de donador fundador a ☆愛Kira黒☆ - steam:110000142f3893a hasta 25-6-2023 
+(29/09/2020 18:01:48) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador oro a Carnicero - steam:110000142f88362 hasta 30-9-2020 
+(29/09/2020 18:02:02) SoyunHombreFranco - steam:1100001355bc25a | Elimino el rango (oro) de Carnicero - steam:110000142f88362
+(29/09/2020 18:02:07) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador oro a SoyunHombreFranco - steam:1100001355bc25a hasta 30-9-2020 
+(29/09/2020 22:20:33) Paco - steam:11000013c903cdb | Elimino el rango (fundador) de ☆愛Kira黒☆ - steam:110000142f3893a
+(29/09/2020 22:20:37) Paco - steam:11000013c903cdb | Le dio rango de donador deluxe a ☆愛Kira黒☆ - steam:110000142f3893a hasta 25-6-2023 
+(29/09/2020 22:21:47) Paco - steam:11000013c903cdb | Elimino el rango (deluxe) de ☆愛Kira黒☆ - steam:110000142f3893a
+(29/09/2020 22:21:54) Paco - steam:11000013c903cdb | Le dio rango de donador fundador a ☆愛Kira黒☆ - steam:110000142f3893a hasta 25-6-2023 
+(29/09/2020 22:35:10) Paco - steam:11000013c903cdb | Le dio rango de donador oro a oRonny - steam:1100001085fffdc hasta 25-6-2023 
+(29/09/2020 22:35:23) Paco - steam:11000013c903cdb | Le dio rango de donador oro a Ivan - steam:11000010eed393c hasta 25-6-2023 
+(30/09/2020 16:40:36) LagarTos - steam:11000014248ea3e | Elimino el rango (oro) de |Gabixpdx| - steam:11000011377a8b4
+(30/09/2020 16:41:09) LagarTos - steam:11000014248ea3e | Le dio rango de donador premium a |Gabixpdx| - steam:11000011377a8b4 hasta 13-2-2842 
+(03/10/2020 14:40:31) Paco - steam:11000013c903cdb | Le dio rango de donador premium a Luffy985 - steam:11000010b4c462d hasta 29-6-2023 
+(05/10/2020 18:47:03) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador deluxe a hugh46 - steam:11000014294ea73 hasta 1-9-4758 
+(05/10/2020 18:54:37) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador basico a TRONKY6_9 - steam:11000013f68eebd hasta 6-10-2020 
+(05/10/2020 18:56:19) SoyunHombreFranco - steam:1100001355bc25a | Elimino el rango (basico) de TRONKY6_9 - steam:11000013f68eebd
+(05/10/2020 18:56:26) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador deluxe a TRONKY6_9 - steam:11000013f68eebd hasta 6-10-2020 
+(05/10/2020 18:56:33) SoyunHombreFranco - steam:1100001355bc25a | Elimino el rango (deluxe) de TRONKY6_9 - steam:11000013f68eebd
+(05/10/2020 21:18:10) LagarTos - steam:11000014248ea3e | Le dio rango de donador premium a RUKA - steam:11000010e3831bd hasta 18-2-2842 
+(06/10/2020 19:17:41) SoyunHombreFranco - steam:1100001355bc25a | Elimino el rango (deluxe) de hugh46 - steam:11000014294ea73
+(06/10/2020 19:17:50) SoyunHombreFranco - steam:1100001355bc25a | Le dio rango de donador deluxe a hugh46 - steam:11000014294ea73 hasta 30-7-7496 
+(06/10/2020 20:40:23) Paco - steam:11000013c903cdb | Cancelo el rango (premium) de RUKA - steam:11000010e3831bd
+(06/10/2020 20:41:13) Paco - steam:11000013c903cdb | Elimino el rango (premium) de RUKA - steam:11000010e3831bd
+(06/10/2020 20:41:15) Paco - steam:11000013c903cdb | Le dio rango de donador premium a RUKA - steam:11000010e3831bd hasta 2-7-2023 
+(06/10/2020 20:44:52) Paco - steam:11000013c903cdb | Le dio rango de donador basico a Kaver23 - steam:11000010af3fa8a hasta 2-7-2023 
+(10/10/2020 23:52:41) SoyunHombreFranco - steam:1100001355bc25a | Elimino el rango (Fundador) de SoyunHombreFranco - steam:1100001355bc25a
+(11/10/2020 21:42:23) SoyunHombreFranco - steam:1100001355bc25a | Elimino el rango (premium) de SoyunHombreFranco - steam:1100001355bc25a
+(11/10/2020 21:42:40) SoyunHombreFranco - steam:1100001355bc25a | Elimino el rango (fundador) de SoyunHombreFranco - steam:1100001355bc25a
+(12/10/2020 11:44:32) SoyunHombreFranco - steam:1100001355bc25a | Elimino el rango (oro) de ALYGAM - steam:110000116dddec7
+(14/10/2020 13:12:47) RUKA - steam:11000010e3831bd | Elimino el rango (premium) de RUKA - steam:11000010e3831bd
+(14/10/2020 19:34:39) El Calaveras - steam:11000010e3831bd | Elimino el rango (oro) de mapachito05 - steam:1100001198265e4
+(16/10/2020 21:25:30) ^7No Me Mires El ID - steam:11000010e3831bd | Elimino el rango (Premium) de ^7No Me Mires El ID - steam:11000010e3831bd
+(16/10/2020 21:33:28) ^7No Me Mires El ID - steam:11000010e3831bd | Elimino el rango (Premium) de ^7No Me Mires El ID - steam:11000010e3831bd
+(20/10/2020 12:50:05) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (Fundador) de ^4 RUKA - steam:11000010e3831bd
+(20/10/2020 13:09:42) Emma4K - steam:11000013c903cdb | Elimino el rango (Deluxe) de ^4 RUKA - steam:11000010e3831bd
+(20/10/2020 13:20:09) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (premium) de ^4 RUKA - steam:11000010e3831bd
+(21/10/2020 23:13:26) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (oro) de King_iDeEx - steam:1100001110a5594
+(21/10/2020 23:13:47) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (oro) de Z-TU-MAI-EN-PANTI-Z - steam:110000140caa72a
+(21/10/2020 23:14:53) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (oro) de xImCosMi - steam:110000143b157b9
+(21/10/2020 23:34:51) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (basico) de King_iDeEx - steam:1100001110a5594
+(21/10/2020 23:35:17) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (basico) de xImCosMi - steam:110000143b157b9
+(21/10/2020 23:35:29) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (basico) de Z-TU-MAI-EN-PANTI-Z - steam:110000140caa72a
+(22/10/2020 06:31:31) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (deluxe) de ^4 RUKA - steam:11000010e3831bd
+(23/10/2020 13:46:34) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (deluxe) de pabbse - steam:11000013205b5e6
+(23/10/2020 15:48:53) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (Fundador) de No Mercy - steam:11000010a2ef0d8
+(24/10/2020 01:06:44) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (deluxe) de ^4 RUKA - steam:11000010e3831bd
+(24/10/2020 14:22:07) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (fundador) de No Mercy - steam:11000010a2ef0d8
+(25/10/2020 01:34:11) ^3! 𝕻𝖍𝖔𝖊𝖓𝖎𝖝 - steam:11000014248ea3e | Elimino el rango (fundador) de ^3! 𝕻𝖍𝖔𝖊𝖓𝖎𝖝 - steam:11000014248ea3e
+(25/10/2020 11:35:53) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (Deluxe) de ^4 Yeray - steam:110000116dddec7
+(25/10/2020 11:40:00) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (deluxe) de ^4 Yeray - steam:110000116dddec7
+(25/10/2020 16:17:20) tuniñoratafav - steam:11000013c7b5b07 | Elimino el rango (e) de tuniñoratafav - steam:11000013c7b5b07
+(25/10/2020 17:51:53) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (basico) de OmegaFatBoy - steam:110000116f918ad
+(25/10/2020 18:23:34) Raul125 - steam:1100001355bc25a | Elimino el rango (Deluxe) de spuig55 - steam:110000106d63ff5
+(26/10/2020 20:52:46) ^3! 𝕻𝖍𝖔𝖊𝖓𝖎𝖝 - steam:11000014248ea3e | Elimino el rango (Deluxe) de spuig55 - steam:110000106d63ff5
+(01/11/2020 00:04:51) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (Fundador) de mapachito05 - steam:1100001198265e4
+(02/11/2020 17:38:19) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (basico) de jorge_el_crack_2006 - steam:110000115281cb1
+(02/11/2020 19:34:00) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (deluxe) de ^4 RUKA - steam:11000010e3831bd
+(02/11/2020 19:58:27) ^4 RUKA - steam:11000010e3831bd | Elimino el rango (deluxe) de ^4 RUKA - steam:11000010e3831bd
+(04/11/2020 17:58:38) ^3! 𝕻𝖍𝖔𝖊𝖓𝖎𝖝 - steam:11000014248ea3e | Elimino el rango (basico) de ^1sergiomelgar26 - steam:11000013660a9d5
+(04/11/2020 17:59:54) ^3! 𝕻𝖍𝖔𝖊𝖓𝖎𝖝 - steam:11000014248ea3e | Elimino el rango (oro) de ^1sergiomelgar26 - steam:11000013660a9d5
+(13/11/2020 23:19:44) ^5RUKA - steam:11000010e3831bd | Elimino el rango (deluxe) de spuig55 - steam:110000106d63ff5
+(13/11/2020 23:21:33) ^5RUKA - steam:11000010e3831bd | Elimino el rango (deluxe) de spuig55 - steam:110000106d63ff5
+(17/11/2020 19:28:18) ^5RUKA - steam:11000010e3831bd | Elimino el rango (c) de tuniñoratafav - steam:11000013c7b5b07
+(18/11/2020 09:58:28) ^5RUKA - steam:11000010e3831bd | Elimino el rango (premium) de ^1sergiomelgar26 - steam:11000013660a9d5
+(18/11/2020 16:12:34) marcgamer._23 - steam:1100001355bc25a | Cancelo el rango (Deluxe) de marcgamer._23 - steam:1100001355bc25a
+(18/11/2020 16:12:45) marcgamer._23 - steam:1100001355bc25a | Cancelo el rango (Deluxe) de marcgamer._23 - steam:1100001355bc25a
+(18/11/2020 16:12:48) marcgamer._23 - steam:1100001355bc25a | Cancelo el rango (Deluxe) de marcgamer._23 - steam:1100001355bc25a
+(18/11/2020 16:12:49) marcgamer._23 - steam:1100001355bc25a | Cancelo el rango (Deluxe) de marcgamer._23 - steam:1100001355bc25a
+(18/11/2020 21:10:33) ^5RUKA - steam:11000010e3831bd | Elimino el rango (oro) de NxndoGnzaalez [ESP] - steam:110000143c258b2
+(22/11/2020 15:45:50) ^5RUKA - steam:11000010e3831bd | Elimino el rango (fundador) de fabueng - steam:11000013e71028e
+(26/11/2020 01:00:35) ^5RUKA - steam:11000010e3831bd | Elimino el rango (oro) de aarmndogm - steam:110000143050faf
+(28/11/2020 10:59:37) tuniñoratafav - steam:11000013c7b5b07 | Elimino el rango (d) de YoSoyJuan - steam:11000013fb5bd99
+(28/11/2020 19:02:54) ^5RUKA - steam:11000010e3831bd | Elimino el rango (Deluxe) de YoSoyJuan - steam:11000013fb5bd99
+(06/12/2020 19:05:43) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (oro) de Santa Mai - steam:110000111bd2f28
+(06/12/2020 19:15:21) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (oro) de jorge_el_crack_2006 - steam:110000115281cb1
+(06/12/2020 21:11:51) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de DAMQ - steam:1100001326b2d3f
+(06/12/2020 21:27:46) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (oro) de jorge_el_crack_2006 - steam:110000115281cb1
+(06/12/2020 23:38:52) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de DAMQ - steam:1100001326b2d3f
+(07/12/2020 01:06:58) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de XxATMxX - steam:1100001434dd1be
+(07/12/2020 20:16:43) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (fundador) de Kira - steam:110000142f3893a
+(07/12/2020 20:56:52) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (deluxe) de Kira - steam:110000142f3893a
+(08/12/2020 13:33:45) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (oro) de soy re vegana - steam:11000013cf2ce66
+(08/12/2020 23:12:52) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de El Cid Campeador - steam:110000107cc152c
+(09/12/2020 14:14:42) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de ^1sergiomelgar26 - steam:11000013660a9d5
+(09/12/2020 15:53:58) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (deluxe) de penitencia94 - steam:110000143209baa
+(09/12/2020 17:17:01) ^1sergiomelgar26 - steam:11000013660a9d5 | Elimino el rango (premium) de AdrikoYT - steam:110000143746116
+(13/12/2020 01:07:46) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (deluxe) de ^5RU^2KA - steam:11000010e3831bd
+(13/12/2020 21:03:03) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de AvangerRed6 - steam:11000013ccb1216
+(17/12/2020 19:50:35) Magick - steam:11000013738d165 | Elimino el rango (a) de Magick - steam:11000013738d165
+(23/12/2020 00:35:46) ^6TosTus^5M... - steam:110000111f584b5 | Elimino el rango (premium) de RHLM - steam:1100001333efc8a
+(24/12/2020 18:54:52) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (oro) de OWO - steam:11000013dec00a3
+(24/12/2020 18:54:58) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (oro) de UWU - steam:110000135d4b775
+(26/12/2020 00:15:33) ^6TosTus^5M... - steam:110000111f584b5 | Elimino el rango (premium) de LOBO - steam:110000143d98ebb
+(26/12/2020 00:56:58) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (oro) de ^6sopa - steam:110000143609ccb
+(26/12/2020 00:57:05) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (deluxe) de ^5RU^2KA - steam:11000010e3831bd
+(26/12/2020 02:49:16) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de LOBO - steam:110000143d98ebb
+(26/12/2020 04:19:52) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (deluxe) de ^5RU^2KA - steam:11000010e3831bd
+(28/12/2020 22:28:57) ^2EL ^3PU^6TO ^7YE^1RAY - steam:110000116dddec7 | Cancelo el rango (oro) de UWU - steam:110000135d4b775
+(28/12/2020 22:29:14) ^2EL ^3PU^6TO ^7YE^1RAY - steam:110000116dddec7 | Elimino el rango (oro) de UWU - steam:110000135d4b775
+(29/12/2020 15:12:07) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de OWO - steam:11000013dec00a3
+(29/12/2020 15:15:01) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de UWU - steam:110000135d4b775
+(29/12/2020 17:33:04) Lucho el peruano favorito - steam:1100001355bc25a | Elimino el rango (oro) de ^6TosTus^5M... - steam:110000111f584b5
+(30/12/2020 02:50:58) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (premium) de danielgl1 - steam:11000011758a820
+(30/12/2020 12:03:34) Lucho el peruano favorito - steam:1100001355bc25a | Elimino el rango (fundador) de illotukkoñokiere? - steam:11000013c903cdb
+(31/12/2020 18:46:30) Lucho el peruano favorito - steam:1100001355bc25a | Elimino el rango (premium) de sergio26 - steam:11000013660a9d5
+(03/01/2021 21:26:31) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (oro) de LuisChR7 - steam:11000013cad8922
+(05/01/2021 13:55:22) Lucho el peruano favorito - steam:1100001355bc25a | Elimino el rango (fundador) de sergio26 - steam:11000013660a9d5
+(06/01/2021 22:21:53) ArnauFortnite2008 - steam:11000014248ea3e | Elimino el rango (fundador) de ArnauFortnite2008 - steam:11000014248ea3e
+(07/01/2021 19:52:52) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (oro) de Edd China - steam:1100001187fdf0e
+(07/01/2021 20:12:17) ^5RU^2KA - steam:11000010e3831bd | Elimino el rango (deluxe) de Edd China - steam:1100001187fdf0e
+(08/01/2021 00:17:34) Lucho el peruano favorito - steam:1100001355bc25a | Elimino el rango (fundador) de Edd China - steam:1100001187fdf0e
+(09/01/2021 21:43:03) Lucho el peruano favorito - steam:1100001355bc25a | Elimino el rango (basico) de alejandromj12yt - steam:11000014139e6aa
+(10/01/2021 13:04:33) Lucho el peruano favorito - steam:1100001355bc25a | Elimino el rango (premium) de LOBO - steam:110000143d98ebb
+(10/01/2021 23:59:39) Eyik - steam:11000010399ead1 | Elimino el rango (premium) de Osito Amoroso - steam:1100001093d6a3f
+(13/01/2021 22:32:57) Eyik - steam:11000010399ead1 | Cancelo el rango (oro) de Lugaresco - steam:11000010a2c34fe
+(13/01/2021 22:33:24) Eyik - steam:11000010399ead1 | Elimino el rango (oro) de Lugaresco - steam:11000010a2c34fe
+(18/01/2021 16:16:38) Eyik - steam:11000010399ead1 | Elimino el rango (fundador) de Antun3z - steam:110000143b46d77
+(18/01/2021 23:27:21) ^8Ty^4ler ^8H. - steam:1100001417bad96 | Cancelo el rango (oro) de fragafrancisco10 - steam:11000014564d5cf
+(18/01/2021 23:29:43) ^8Ty^4ler ^8H. - steam:1100001417bad96 | Cancelo el rango (oro) de fragafrancisco10 - steam:11000014564d5cf
+(18/01/2021 23:30:18) ^8Ty^4ler ^8H. - steam:1100001417bad96 | Elimino el rango (oro) de fragafrancisco10 - steam:11000014564d5cf
+(23/01/2021 22:34:52) Mestias - steam:11000010399ead1 | Elimino el rango (deluxe) de fragafrancisco10 - steam:11000014564d5cf
+(24/01/2021 14:41:22) Mestias - steam:11000010399ead1 | Elimino el rango (fundador) de Antun3z - steam:110000143b46d77
+(24/01/2021 23:42:32) Mestias - steam:11000010399ead1 | Elimino el rango (fundador) de ^2RU^8KA - steam:11000010e3831bd
+(25/01/2021 15:23:33) Mestias - steam:11000010399ead1 | Elimino el rango (deluxe) de akuamanm - steam:1100001442f387d
+(25/01/2021 15:24:59) Mestias - steam:11000010399ead1 | Elimino el rango (premium) de U///w///U - steam:11000013c96c975
+(25/01/2021 15:27:16) Mestias - steam:11000010399ead1 | Elimino el rango (premium) de franchescoo_as - steam:110000140bdc24a
+(25/01/2021 16:05:29) Mestias - steam:11000010399ead1 | Elimino el rango (premium) de Mestias - steam:11000010399ead1
+(25/01/2021 18:12:21) Mestias - steam:11000010399ead1 | Elimino el rango (deluxe) de akuamanm - steam:1100001442f387d
+(28/01/2021 13:59:07) Mestias - steam:11000010399ead1 | Elimino el rango (basico) de esloqui - steam:11000014465cda1
+(30/01/2021 13:40:38) Lucho el peruano favorito - steam:1100001355bc25a | Elimino el rango (premium) de borjablanco123 - steam:11000014585126b
+(02/02/2021 16:02:14) Mestias - steam:11000010399ead1 | Elimino el rango (premium) de Fernan07 - steam:1100001126ee100
+(04/02/2021 21:06:34) Don Patrisio - steam:1100001355bc25a | Elimino el rango (deluxe) de borjablanco123 - steam:11000014585126b
+(04/02/2021 21:06:54) Don Patrisio - steam:1100001355bc25a | Elimino el rango (fundador) de hugocp2005 - steam:1100001458d557e
+(10/02/2021 01:29:00) Miokkat - steam:11000010399ead1 | Elimino el rango (premium) de LuisChR7 - steam:11000013cad8922
+(13/02/2021 06:10:05) Don Patrisio - steam:1100001355bc25a | Elimino el rango (premium) de esloqui - steam:11000014465cda1
+(14/02/2021 05:22:33) Don Patrisio - steam:1100001355bc25a | Elimino el rango (premium) de BLAYA - steam:11000010f3d1849
+(14/02/2021 14:02:44) ^6Suni! - steam:11000011cb27678 | Elimino el rango (basico) de Xavier123 - steam:11000014219f87c
+(21/02/2021 15:04:08) Miokkat - steam:11000010399ead1 | Elimino el rango (oro) de Mr.Lokillo - steam:110000142072b43
+(22/02/2021 14:12:24) |Gabixpdx| - steam:11000011377a8b4 | Elimino el rango (basico) de twitch.tv/ercarlitohtv - steam:11000013cdaa0cf
+(28/02/2021 14:06:16) Miokkat - steam:11000010399ead1 | Elimino el rango (oro) de AndreaOpeth - steam:11000013614053d
+(06/03/2021 11:08:08) Miokkat - steam:11000010399ead1 | Elimino el rango (basico) de Craptor89 - steam:110000134d5f052
+(08/03/2021 14:44:41) Miokkat - steam:11000010399ead1 | Elimino el rango (basico) de ^3Lady PlayBoy - steam:11000013f69eb65
+(10/03/2021 09:46:20) Miokkat - steam:11000010399ead1 | Elimino el rango (premium) de tapejara - steam:1100001194da904
+(12/03/2021 07:53:36) ^8Ty^4ler ^8H. - steam:1100001417bad96 | Elimino el rango (oro) de Xavier123 - steam:11000014219f87c
+(18/03/2021 08:24:25) ^*^9Helenitx - steam:11000013dec00a3 | Elimino el rango (premium) de ^*^9Helenitx - steam:11000013dec00a3
+(24/03/2021 12:39:32) ^*^9Helenitx - steam:11000013dec00a3 | Cancelo el rango (deluxe) de ^*^9Helenitx - steam:11000013dec00a3
+(24/03/2021 15:40:09) Miokkat - steam:11000010399ead1 | Elimino el rango (oro) de ^6amdz_ - steam:1100001436b509b
+(27/03/2021 17:47:18) daniisrz - steam:11000013d0c499a | Elimino el rango (basico) de Bato Te Ama - steam:110000141af6fe9
+(28/03/2021 05:01:17) Miokkat - steam:11000010399ead1 | Elimino el rango (oro) de Craptor89 - steam:110000134d5f052
+(02/04/2021 18:12:08) daniisrz - steam:11000013d0c499a | Cancelo el rango (premium) de vintgtrois - steam:11000014436a045
+(02/04/2021 18:12:30) daniisrz - steam:11000013d0c499a | Elimino el rango (premium) de vintgtrois - steam:11000014436a045
+(04/04/2021 23:53:28) daniisrz - steam:11000013d0c499a | Elimino el rango (Fundador) de vintgtrois - steam:11000014436a045
+(05/04/2021 03:04:44) mapachito05 - steam:1100001198265e4 | Elimino el rango (deluxe) de wadih_2002 - steam:11000013b6fb53e
+(11/04/2021 14:52:31) mapachito05 - steam:1100001198265e4 | Elimino el rango (premium) de ^4Crap^9tor^189^2ツ - steam:110000134d5f052
+(19/04/2021 21:08:52) mapachito05 - steam:1100001198265e4 | Elimino el rango (oro) de ^3Lady PlayBoy - steam:11000013f69eb65
+(19/04/2021 22:28:48) mapachito05 - steam:1100001198265e4 | Elimino el rango (oro) de shadowcito - steam:11000014245345b
+(20/04/2021 19:20:54) mapachito05 - steam:1100001198265e4 | Elimino el rango (premium) de shadowcito - steam:11000014245345b
+(21/04/2021 22:10:28) mapachito05 - steam:1100001198265e4 | Elimino el rango (deluxe) de AndreaOpeth - steam:11000013614053d
+(24/04/2021 20:32:59) mapachito05 - steam:1100001198265e4 | Elimino el rango (premium) de Diegosvg - steam:110000140f164f0
+(30/04/2021 19:53:32) daniisrz - steam:11000013d0c499a | Elimino el rango (deluxe) de Visu1991 - steam:11000010b585ad5
+(30/04/2021 19:53:54) daniisrz - steam:11000013d0c499a | Elimino el rango (deluxe) de ivanfn88jaja - steam:110000147b4d286
+(03/05/2021 18:53:20) daniisrz - steam:11000013d0c499a | Elimino el rango (premium) de ^*^6Albert - steam:110000141c21009
+(07/05/2021 21:38:32) ^*^9Call me daddy - steam:11000011a00911f | Elimino el rango (oro) de ^1Ba^6To^4ᵇʳʳ - steam:110000141af6fe9
+(08/05/2021 22:28:00) ^9Helenitx - steam:11000013dec00a3 | Cancelo el rango (fundador) de pacobrr - steam:11000013c903cdb
+(08/05/2021 22:30:04) ^9Helenitx - steam:11000013dec00a3 | Elimino el rango (fundador) de pacobrr - steam:11000013c903cdb
+(08/05/2021 22:30:18) ^9Helenitx - steam:11000013dec00a3 | Elimino el rango (deluxe) de ^9Helenitx - steam:11000013dec00a3
+(19/05/2021 22:52:00) daniisrz - steam:11000013d0c499a | Elimino el rango (vip) de SHADØW® - steam:11000013fd52fd2
+(21/05/2021 19:44:33) Miokkat - steam:11000010399ead1 | Elimino el rango (deluxe) de mdiazh23 - steam:110000140c805c7
+(21/05/2021 22:45:45) Tyler - steam:1100001417bad96 | Elimino el rango (oro) de KROMZU - steam:11000014284c094
+(23/05/2021 00:28:04) Don Patrisio - steam:1100001355bc25a | Elimino el rango (oro) de SdeSmosh - steam:1100001458d8b07
+(23/05/2021 00:45:55) Don Patrisio - steam:1100001355bc25a | Elimino el rango (deluxe) de ^*^4SyGnus^111 - steam:110000141802907
+(25/05/2021 18:15:03) BaByGoFre - steam:110000144759b97 | Elimino el rango (oro) de alejandrovegavacondio - steam:1100001459a1de1
+(25/05/2021 23:15:46) daniisrz - steam:11000013d0c499a | Elimino el rango (deluxe) de FlekiPlay - steam:110000119559000
+(26/05/2021 15:51:28) ^*^1IZAN - steam:11000014026cf03 | Elimino el rango (deluxe) de esloqui - steam:11000014465cda1
+(31/05/2021 22:23:34) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (Fundador) de Khenjih - steam:1100001186f7302
+(01/06/2021 14:27:36) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (premium) de EZ4Pakitoo(ง︡'-'︠)ง - steam:11000013ff5eb67
+(01/06/2021 14:45:27) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (Fundador) de EZ4Pakitoo(ง︡'-'︠)ง - steam:11000013ff5eb67
+(01/06/2021 15:46:48) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (Oro) de ^*^1SkuirteL - steam:110000147cd6067
+(02/06/2021 00:47:35) danisuarez - steam:11000013d0c499a | Elimino el rango (oro) de danisuarez - steam:11000013d0c499a
+(02/06/2021 14:53:00) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (Basico) de Ghost_Riley - steam:110000144d35daf
+(07/06/2021 04:19:14) danisuarez - steam:11000013d0c499a | Elimino el rango (premium) de XxSkraMorxX - steam:11000013c0ec364
+(07/06/2021 20:22:46) Manuuu - steam:1100001404070cb | Elimino el rango (basico) de harcoldx - steam:11000010b1d1857
+(07/06/2021 23:33:46) danisuarez - steam:11000013d0c499a | Elimino el rango (deluxe) de Betapro237 - steam:11000010b2ae3db
+(08/06/2021 11:05:34) ^*^4Ri^8ki - steam:11000011490a88e | Elimino el rango (C) de ^*^9bbssitaaa - steam:110000141c21009
+(08/06/2021 17:10:40) Manuuu - steam:1100001404070cb | Elimino el rango (deluxe) de albarrala50 - steam:11000014191ebcd
+(11/06/2021 23:39:17) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (basico) de isaacSL94 - steam:110000111b3814e
+(12/06/2021 11:52:53) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (oro) de Alfredo Ndour - steam:1100001192e38fd
+(13/06/2021 23:28:03) ^*^9Call me daddy - steam:11000011a00911f | Elimino el rango (Premium) de ^*^9Nath - steam:11000013f09fa96
+(14/06/2021 13:00:06) Manuuu - steam:1100001404070cb | Elimino el rango (oro) de alvarocuradogarcia - steam:110000147d3c62c
+(14/06/2021 17:36:34) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (Deluxe) de pepeman95 - steam:110000147cd0795
+(14/06/2021 18:31:40) BaByGoFre - steam:110000144759b97 | Elimino el rango (Fundador) de BaByGoFre - steam:110000144759b97
+(15/06/2021 14:34:51) ^*^9Call me daddy - steam:11000011a00911f | Elimino el rango (Premium) de ^*^9Nath - steam:11000013f09fa96
+(15/06/2021 14:35:02) ^*^9Call me daddy - steam:11000011a00911f | Elimino el rango (Premium) de ^*^9Call me daddy - steam:11000011a00911f
+(15/06/2021 15:22:48) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (oro) de Alfredo Ndour - steam:1100001192e38fd
+(15/06/2021 20:35:18) ^*^9Nath - steam:11000013f09fa96 | Elimino el rango (deluxe) de ^*^4Ri^8ki - steam:11000011490a88e
+(17/06/2021 15:07:03) ^*^9Nath - steam:11000013f09fa96 | Elimino el rango (basico) de xxrubencito69Gameodds.gg - steam:110000144ba4bdd
+(17/06/2021 18:18:15) ^*^9Nath - steam:11000013f09fa96 | Elimino el rango (fundador) de ^*^4Ri^8ki - steam:11000011490a88e
+(18/06/2021 19:41:11) LuisChR7 - steam:11000013cad8922 | Elimino el rango (premium) de aguilo96 - steam:110000115ab9e67
+(22/06/2021 18:34:16) BaByGoFre - steam:110000144759b97 | Elimino el rango (premium) de E-boy | Snoples-kun - steam:11000013c96c975
+(23/06/2021 18:04:47) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (deluxe) de ^*^4LágrimasApelables - steam:11000013cad8922
+(23/06/2021 18:12:24) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (deluxe) de ^*^6SoyUnaBorde - steam:1100001436b509b
+(23/06/2021 18:18:49) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (basico) de ^6eric^4pont - steam:1100001142f3822
+(23/06/2021 20:40:54) ^*^4LágrimasApelables - steam:11000013cad8922 | Elimino el rango (oro) de ^*^1Elsk^2Eler - steam:110000147cd6067
+(23/06/2021 21:32:43) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (premium) de Furbvaz - steam:1100001126ee100
+(24/06��9�U
+(07/07/2021 09:07:42) Manuuu - steam:1100001404070cb | Elimino el rango (basico) de Muxakalma la chupa - steam:110000144b6644e
+(07/07/2021 23:18:00) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (premium) de CrazZy - steam:11000013ed6d5b2
+(09/07/2021 11:13:33) ^*^9Call me daddy - steam:11000011a00911f | Elimino el rango (basico) de TwitchSamu12twc KEYDROP - steam:11000013c56f236
+(09/07/2021 13:57:03) ^*^9Call me daddy - steam:11000011a00911f | Elimino el rango (fundador) de ^*^6Rafita - steam:11000011176fdcf
+(16/07/2021 09:52:30) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (fundador) de Sr.tejera - steam:1100001452825d1
+(16/07/2021 14:44:43) ^*^4Lágrimas Apelables - steam:11000013cad8922 | Elimino el rango (oro) de webo - steam:110000134651039
+(18/07/2021 04:34:42) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (oro) de ChristianBM4 - steam:110000110b92b3c
+(18/07/2021 09:57:55) Furbvaz - steam:1100001126ee100 | Elimino el rango (oro) de _Xcarrasco - steam:1100001436f5150
+(19/07/2021 09:27:37) ^* ^9 Dani ^3Suarez - steam:11000013d0c499a | Elimino el rango (fundador) de narekitos - steam:11000010770549e
+(20/07/2021 11:54:44) ^*^6Rafita - steam:11000011176fdcf | Elimino el rango (deluxe) de ^9GigyyDyamoond^* - steam:110000147b97ebd
+(22/07/2021 07:51:39) SergioDev - steam:110000148e6081d | Elimino el rango (Fundador) de SergioDev - steam:110000148e6081d
+(24/07/2021 12:16:30) Furbvaz - steam:1100001126ee100 | Elimino el rango (premium) de XxVerstxX - steam:11000011936ea24
+(25/07/2021 15:38:04) Lorcas_Cambed - steam:11000011ccebfd5 | Elimino el rango (premium) de ChristianBM4 - steam:110000110b92b3c
+(25/07/2021 18:00:30) ^*^6OwO - steam:11000011176fdcf | Elimino el rango (premium) de HidekyKun - steam:1100001047caac3
+(26/07/2021 13:36:26) Furbvaz - steam:1100001126ee100 | Elimino el rango (premium) de ^6im.^9dariii - steam:1100001482c8fff
+(26/07/2021 15:36:41) ^*^6SoyUnaBorde - steam:1100001436b509b | Elimino el rango (premium) de Jordi822 - steam:1100001144c7dff
+(27/07/2021 13:58:36) ^*^6OwO - steam:11000011176fdcf | Elimino el rango (deluxe) de ^*^6AWA - steam:11000013dec00a3
+(27/07/2021 14:01:25) ^*^6OwO - steam:11000011176fdcf | Elimino el rango (oro) de ^*^6UWU - steam:1100001443747f8
+(28/07/2021 11:43:41) ^4LuisChR7 - steam:11000013cad8922 | Elimino el rango (oro) de JOTADOBLE - steam:1100001406eb7ea
+(29/07/2021 03:11:43) Furbvaz - steam:1100001126ee100 | Elimino el rango (deluxe) de ^4Adb^5__2 - steam:11000013e0ab8a2
+(30/07/2021 15:08:53) Lorcas_Cambed - steam:11000011ccebfd5 | Elimino el rango (basico) de ^* ^6LeGa^7Zzy - steam:110000141ee164d
+(30/07/2021 17:49:26) Suni! - steam:11000011cb27678 | Elimino el rango (premium) de Suni! - steam:11000011cb27678
+(31/07/2021 04:04:26) BaByGoFre - steam:110000144759b97 | Elimino el rango (deluxe) de ^5El ^6Llorón - steam:1100001453d1d2e
+(31/07/2021 06:48:09) Furbvaz - steam:1100001126ee100 | Elimino el rango (oro) de scaloni manuel - steam:110000106f65701
+(31/07/2021 07:09:19) Furbvaz - steam:1100001126ee100 | Elimino el rango (premium) de ^9El^6Tupe^5:) - steam:110000141b8c8c0
+(31/07/2021 18:09:22) ^*^6amdz_ - steam:1100001436b509b | Elimino el rango (premium) de ^*^1N^3IC^10 - steam:11000013c0b3105
+(01/08/2021 16:58:18) ^*^1E^2l^6M^8o^5ñ^1o_- - steam:11000013ed6d5b2 | Elimino el rango (oro) de Eiroá - steam:11000010b2ef896
+(03/08/2021 14:34:31) Lorcas_Cambed - steam:11000011ccebfd5 | Elimino el rango (oro) de DarkNess - steam:11000013d5b85e9
+(03/08/2021 14:36:27) Furbvaz - steam:1100001126ee100 | Elimino el rango (deluxe) de ^8D^9M^6A - steam:1100001482c8fff
+(03/08/2021 14:43:00) Furbvaz - steam:1100001126ee100 | Elimino el rango (premium) de DarkNess - steam:11000013d5b85e9
+(04/08/2021 07:34:12) Lorcas_Cambed - steam:11000011ccebfd5 | Elimino el rango (deluxe) de ^*Crako - steam:110000134d5f052
+(05/08/2021 02:01:21) ^*^1It^3sBuf^1as - steam:1100001132b99e9 | Elimino el rango (fundador) de ^*^1It^3sBuf^1as - steam:1100001132b99e9
+(05/08/2021 07:18:22) Furbvaz - steam:1100001126ee100 | Elimino el rango (deluxe) de DITP_DIEGO - steam:1100001423aed36
+(08/08/2021 15:32:17) amdz_ - steam:1100001436b509b | Elimino el rango (deluxe) de TuDiablito - steam:1100001443747f8
+(09/08/2021 03:01:13) Zulema - steam:11000013dec00a3 | Cancelo el rango (fundador) de Zulema - steam:11000013dec00a3
+(09/08/2021 03:01:43) Zulema - steam:11000013dec00a3 | Elimino el rango (fundador) de Zulema - steam:11000013dec00a3
+(11/08/2021 05:41:36) Call me daddy - steam:11000011a00911f | Elimino el rango (premium) de ✘Shootᴮᴮ - steam:11000013db8cdcf
+(12/08/2021 12:50:04) Miokkat - steam:11000010399ead1 | Elimino el rango (deluxe) de ChristianBM4 - steam:110000110b92b3c
+(13/08/2021 09:11:28) CrazZy - steam:11000013ed6d5b2 | Elimino el rango (basico) de macarrafrancis - steam:110000147d7b9a4
+(13/08/2021 09:15:20) CrazZy - steam:11000013ed6d5b2 | Elimino el rango (oro) de gaspii - steam:110000146a09756
+(13/08/2021 09:48:44) amdz_ - steam:1100001436b509b | Elimino el rango (premium) de alvarocuradogarcia - steam:110000147d3c62c
+(15/08/2021 17:14:44) LuisChR7 - steam:11000013cad8922 | Elimino el rango (premium) de Eiroá - steam:11000010b2ef896
+(16/08/2021 07:10:00) Rafita - steam:11000011176fdcf | Elimino el rango (fundador) de Crako - steam:110000134d5f052
+(16/08/2021 07:10:10) Rafita - steam:11000011176fdcf | Elimino el rango (premium) de ^*^2TUJA - steam:11000010ef2c157
+(16/08/2021 10:29:10) amdz_ - steam:1100001436b509b | Elimino el rango (premium) de limonesmurcianos - steam:1100001432ff4cb
+(16/08/2021 18:55:57) CrazZy - steam:11000013ed6d5b2 | Elimino el rango (basico) de Pepi - steam:11000013f6909f0
+(17/08/2021 05:09:11) amdz_ - steam:1100001436b509b | Elimino el rango (fundador) de Zeká - steam:1100001453d1d2e
+(17/08/2021 05:25:33) Furbvaz - steam:1100001126ee100 | Elimino el rango (basico) de ^*^5RusitoSexy - steam:11000013c38f516
+(17/08/2021 05:44:29) amdz_ - steam:1100001436b509b | Elimino el rango (premium) de kiiliian - steam:110000145d214b7
+(17/08/2021 06:13:54) amdz_ - steam:1100001436b509b | Elimino el rango (oro) de Kratos - steam:11000011230719a
+(17/08/2021 06:14:32) amdz_ - steam:1100001436b509b | Elimino el rango (premium) de ^* ^6LeGa^7Zzy - steam:110000141ee164d
+(17/08/2021 14:06:54) LuisChR7 - steam:11000013cad8922 | Elimino el rango (premium) de Tiquicia - steam:110000118b84a7a
+(18/08/2021 15:36:31) CrazZy - steam:11000013ed6d5b2 | Elimino el rango (premium) de CrazZy - steam:11000013ed6d5b2
+(19/08/2021 15:31:05) Furbvaz - steam:1100001126ee100 | Elimino el rango (premium) de vacunaodelcovid - steam:1100001456f242d
+(21/08/2021 09:42:30) Rafita - steam:11000011176fdcf | Elimino el rango (premium) de djtopoceuta - steam:11000014884ac7b
+(22/08/2021 09:13:48) ^*^6Bufas te manda a soporte :D - steam:1100001132b99e9 | Elimino el rango (premium) de pablosky206 - steam:11000014310d57f
+(23/08/2021 08:57:23) BaByGoFre - steam:110000144759b97 | Elimino el rango (premium) de Anton Siles - steam:110000112b26247
+(26/08/2021 06:34:21) BaByGoFre - steam:110000144759b97 | Elimino el rango (premium) de 1javiermorenoreina - steam:110000145e17dda
+(26/08/2021 11:02:17) BaByGoFre - steam:110000144759b97 | Elimino el rango (premium) de p0mta - steam:11000010f7131b1
+(26/08/2021 13:00:21) BaByGoFre - steam:110000144759b97 | Elimino el rango (deluxe) de deereek23 - steam:1100001453e3faf
+(27/08/2021 04:36:05) BaByGoFre - steam:110000144759b97 | Elimino el rango (deluxe) de p0mta - steam:11000010f7131b1
+(27/08/2021 14:49:05) Rafita - steam:11000011176fdcf | Elimino el rango (deluxe) de ^6sergiotesacaclip - steam:1100001456f242d
+(28/08/2021 15:04:03) Crako - steam:110000134d5f052 | Elimino el rango (deluxe) de QuemeDecias - steam:1100001455a4b3d
+(29/08/2021 14:02:34) Crako - steam:110000134d5f052 | Elimino el rango (deluxe) de KiioKTV - steam:11000013c9fbb13
+(30/08/2021 06:47:19) CrazZy - steam:11000013ed6d5b2 | Elimino el rango (deluxe) de ^*^8trapped te peta tt - steam:11000013f22501c
+(30/08/2021 09:54:38) Crako - steam:110000134d5f052 | Elimino el rango (fundador) de ^*^6amdz_ - steam:1100001436b509b
+(30/08/2021 15:39:44) Crako - steam:110000134d5f052 | Elimino el rango (premium) de sokat38 - steam:1100001069a06b6
+(31/08/2021 11:06:28) Lorcas_Cambed - steam:11000011ccebfd5 | Elimino el rango (deluxe) de Lorcas_Cambed - steam:11000011ccebfd5
+(01/09/2021 14:57:18) SergioDev - steam:110000148e6081d | Elimino el rango (fundador) de sergio26 - steam:11000013660a9d5
+(03/09/2021 10:45:35) Crako - steam:110000134d5f052 | Elimino el rango (deluxe) de vena_020 - steam:110000146561759
+(05/09/2021 08:53:43) Call me daddy - steam:11000011a00911f | Elimino el rango (fundador) de LuisChR7 - steam:11000013cad8922
+(05/09/2021 13:02:39) BaByGoFre - steam:110000144759b97 | Elimino el rango (deluxe) de ^9Gigyy la manca^* - steam:110000147b97ebd
+(05/09/2021 16:22:05) Lorcas_Cambed - steam:11000011ccebfd5 | Elimino el rango (deluxe) de -::GG::- - steam:1100001341bda82
+(10/09/2021 13:59:33) CrazZy - steam:11000013ed6d5b2 | Elimino el rango (oro) de vlak WRLD - steam:11000013e798dcb
+(11/09/2021 07:16:25) Crako - steam:110000134d5f052 | Elimino el rango (basico) de MAYAXIII - steam:1100001077736af
+(13/09/2021 13:28:09) iSometimesDani - steam:110000145729f3f | Cancelo el rango (premium) de La Yimberly - steam:1100001483bedc5
+(13/09/2021 13:29:34) iSometimesDani - steam:110000145729f3f | Elimino el rango (premium) de La Yimberly - steam:1100001483bedc5
+(14/09/2021 08:04:48) Rafita - steam:11000011176fdcf | Elimino el rango (fundador) de Rafita - steam:11000011176fdcf
+(14/09/2021 17:31:30) Call me daddy - steam:11000011a00911f | Elimino el rango (deluxe) de Cuidaito - steam:1100001369722fe
+(15/09/2021 14:21:39) iSometimesDani - steam:110000145729f3f | Elimino el rango (fundador) de pacobrr - steam:11000013c903cdb
+(17/09/2021 09:12:30) SergioDev - steam:110000148e6081d | Elimino el rango (fundador) de sergio26 - steam:11000013660a9d5
+(18/09/2021 00:53:02) ericpont - steam:1100001142f3822 | Elimino el rango (premium) de ericpont - steam:1100001142f3822
+(18/09/2021 02:11:27) ericpont - steam:1100001142f3822 | Elimino el rango (Fundador) de sergio26 - steam:11000013660a9d5
+(18/09/2021 08:28:08) Crako - steam:110000134d5f052 | Elimino el rango (premium) de TUJA - steam:11000010ef2c157
+(25/09/2021 03:24:58) ericpont - steam:1100001142f3822 | Elimino el rango (deluxe) de La Yimberly - steam:1100001483bedc5
+(27/09/2021 06:11:24) TUJA - steam:11000010ef2c157 | Elimino el rango (basico) de Sicario - steam:110000145866947
+(29/09/2021 11:45:26) TUJA - steam:11000010ef2c157 | Elimino el rango (premiun) de ^* ^9SoyEl^3Ruso - steam:11000010df7ee21
+(30/09/2021 05:40:36) Rafita - steam:11000011176fdcf | Elimino el rango (deluxe) de chispindsf - steam:110000145d214b7
+(04/10/2021 10:39:26) Mr Craken - steam:110000134d5f052 | Elimino el rango (deluxe) de ElKenzo - steam:110000147fa6402
+(05/10/2021 16:37:30) ^*^6LeGa^7Zzy - steam:110000141ee164d | Elimino el rango (premiun) de ^* ^9SoyEl^3Ruso - steam:11000010df7ee21
+(06/10/2021 13:51:51) ^*^6LeGa^7Zzy - steam:110000141ee164d | Cancelo el rango (premiun) de ^2Fan ^6de ^2Lluri - steam:110000140f63e89
+(06/10/2021 13:52:12) ^*^6LeGa^7Zzy - steam:110000141ee164d | Elimino el rango (premiun) de ^2Fan ^6de ^2Lluri - steam:110000140f63e89
+(07/10/2021 11:15:38) iSometimesDani - steam:110000145729f3f | Elimino el rango (premiun) de el chavi - steam:11000014687d2df
+(14/10/2021 17:47:03) iSometimesDani - steam:110000145729f3f | Cancelo el rango (oro) de ^6Moto^2De^4Agua^6Brutal - steam:1100001458e168b
+(14/10/2021 17:47:14) iSometimesDani - steam:110000145729f3f | Elimino el rango (oro) de ^6Moto^2De^4Agua^6Brutal - steam:1100001458e168b
+(15/10/2021 19:24:40) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Cancelo el rango (premium) de ^2Papi ^6de ^2Oskitar - steam:110000145186eb6
+(15/10/2021 19:25:05) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (premium) de ^2Papi ^6de ^2Oskitar - steam:110000145186eb6
+(15/10/2021 23:03:05) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (premium) de ^2Mami ^6de ^2Oskitar - steam:110000140f63e89
+(15/10/2021 23:27:35) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (premium) de bubbagam - steam:110000100e60ef8
+(20/10/2021 20:56:16) iSometimesDani - steam:110000145729f3f | Elimino el rango (premium) de ^*^9Mocheado por PB - steam:11000013efb78f9
+(01/11/2021 17:01:31) LuisChR7 - steam:11000013cad8922 | Elimino el rango (fundador) de LuisChR7 - steam:11000013cad8922
+(01/11/2021 21:03:47) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (basico) de ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16
+(01/11/2021 21:04:03) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (premium) de ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16
+(01/11/2021 21:05:34) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (premium) de ^*^6J^0O^6R^0G^6E^0H^6O^0R - steam:1100001458187a3
+(01/11/2021 21:05:55) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (fundador) de G H O S T - steam:110000141c21009
+(01/11/2021 21:07:50) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (fundador) de ^*^6amdz_ - steam:1100001436b509b
+(01/11/2021 21:08:00) Rafita - steam:11000011176fdcf | Elimino el rango (fundador) de Rafita - steam:11000011176fdcf
+(01/11/2021 21:09:11) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (premium) de ^4tu ^3bby ^2el  ^1carrasco - steam:1100001436f5150
+(01/11/2021 21:09:47) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (deluxe) de ^9^*NH | SimpDeNessa^^ - steam:1100001472903d8
+(01/11/2021 21:10:05) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (fundador) de ^8A^7L^8E^7X^8A^7N^8D^7E^8R - steam:11000013d6a1607
+(01/11/2021 21:12:39) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (fundador) de LuisChR7 - steam:11000013cad8922
+(01/11/2021 21:13:47) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (fundador) de CraZzy - steam:11000013ed6d5b2
+(01/11/2021 21:14:18) Rafita - steam:11000011176fdcf | Elimino el rango (fundador) de ^* ^9acre^3spii - steam:1100001436836af
+(01/11/2021 21:14:29) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (fundador) de ^5esloqui - steam:11000014465cda1
+(01/11/2021 21:15:14) iSometimesDani - steam:110000145729f3f | Elimino el rango (premium) de iSometimesDani - steam:110000145729f3f
+(01/11/2021 21:15:26) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (fundador) de ^* ^1pa^3co^1brr - steam:11000013c903cdb
+(01/11/2021 21:16:25) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (premium) de ^*^5ale^0.^9bosco - steam:11000010b50ad9f
+(01/11/2021 21:18:08) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (fundador) de Chino Sousa - steam:1100001067dd4b1
+(01/11/2021 21:18:48) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (fundador) de Mariio ON 69 - steam:1100001453d1d2e
+(01/11/2021 21:27:55) iSometimesDani - steam:110000145729f3f | Elimino el rango (funador) de Kaoz - steam:11000010721fdd7
+(02/11/2021 16:26:41) ^* ^6LeGa^7Zzy - steam:110000141ee164d | Elimino el rango (premium) de Manapapa - steam:110000147638738
+(02/11/2021 18:18:22) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (deluxe) de Juansane - steam:11000013bfe4338
+(02/11/2021 20:44:48) SergioDev - steam:110000148e6081d | Elimino el rango (fundador) de QuemeDecias - steam:1100001455a4b3d
+(02/11/2021 20:47:15) SergioDev - steam:110000148e6081d | Elimino el rango (fundador) de R4gnar - steam:11000014345a7b3
+(02/11/2021 21:51:08) SergioDev - steam:110000148e6081d | Elimino el rango (fundador) de Double Jota - steam:1100001406eb7ea
+(02/11/2021 21:52:34) iSometimesDani - steam:110000145729f3f | Elimino el rango (fundador) de Nati - steam:110000140f63e89
+(02/11/2021 22:52:26) iSometimesDani - steam:110000145729f3f | Elimino el rango (fundados) de XXTrickXX - steam:11000014351093a
+(02/11/2021 23:33:37) SergioDev - steam:110000148e6081d | Elimino el rango (fundador) de ^*^4Kilianoff - steam:110000145d214b7
+(03/11/2021 02:53:43) ^* ^6LeGa^7Zzy - steam:110000141ee164d | Elimino el rango (PREMIUM) de ^8~M^3a^2t^4e^60~ - steam:110000145fdee80
+(03/11/2021 20:48:39) iSometimesDani - steam:110000145729f3f | Elimino el rango (premium) de winsterlao - steam:1100001030d7177
+(04/11/2021 18:29:49) ericpont - steam:1100001142f3822 | Elimino el rango (fundador) de sergio26 - steam:11000013660a9d5
+(08/11/2021 16:18:48) iSometimesDani - steam:110000145729f3f | Elimino el rango (premum) de scaloni manuel - steam:110000106f65701
+(14/11/2021 00:51:55) Rafita - steam:11000011176fdcf | Elimino el rango (Deluxe) de blacksoul - steam:110000148c1b503
+(14/11/2021 14:32:29) TheRialPato - steam:11000011ab23be7 | Elimino el rango (oro) de fernandogallego244 - steam:11000011691e6ec
+(14/11/2021 16:53:04) TheRialPato - steam:11000011ab23be7 | Elimino el rango (oro) de jars76030 - steam:110000146ea3887
+(15/11/2021 21:26:07) ^7J^7o^7k^4e^4r^1c^1k^11 - steam:1100001323f5a16 | Elimino el rango (premium) de Juansegarra - steam:110000145f50b55
+(22/11/2021 21:45:35) TheRialPato - steam:11000011ab23be7 | Elimino el rango (basico) de bellixoo06 - steam:110000139d2656c
+(23/11/2021 16:23:34) TheRialPato - steam:11000011ab23be7 | Elimino el rango (premium) de jars76030 - steam:110000146ea3887
+(23/11/2021 21:50:23) TheRialPato - steam:11000011ab23be7 | Elimino el rango (premium) de Purpurina Stars - steam:11000011691e6ec
+(23/11/2021 21:56:59) TheRialPato - steam:11000011ab23be7 | Elimino el rango (deluxe) de jars76030 - steam:110000146ea3887
+(25/11/2021 22:12:49) hamburguesino - steam:110000141babb05 | Elimino el rango (deluxe) de Purpurina Stars - steam:11000011691e6ec
+(30/11/2021 23:46:01) CraZzy - steam:11000013ed6d5b2 | Elimino el rango (premium) de ^*Pingüino4 - steam:110000147d7b9a4
+(09/12/2021 18:12:33) TheRialPato - steam:11000011ab23be7 | Cancelo el rango (oro) de bellixoo06 - steam:110000139d2656c
+(09/12/2021 18:12:49) TheRialPato - steam:11000011ab23be7 | Elimino el rango (oro) de bellixoo06 - steam:110000139d2656c
+(10/12/2021 17:54:05) TheRialPato - steam:11000011ab23be7 | Elimino el rango (premiun) de ^*^9NH | Pancho - steam:110000135b89011
+(12/12/2021 19:34:31) ^*^0|| ^4SyGnus^011 || - steam:110000141802907 | Elimino el rango (premiun) de ^*A18 || ^6Jorgehor - steam:1100001458187a3
+(13/12/2021 17:27:58) DaniSuarez - steam:11000013d0c499a | Elimino el rango (Oro) de ^*^4 M0CHEA0 P0R UN P0LAC0 - steam:1100001445f605c
+(14/12/2021 19:40:43) lilith - steam:110000146c3ef25 | Elimino el rango (deluxe) de El Rambo - steam:11000010dca4218
+(17/12/2021 13:37:29) lilith - steam:110000146c3ef25 | Elimino el rango (donador) de ^6M^3a^4t^7e^80 - steam:110000145fdee80
+(20/12/2021 15:04:12) lilith - steam:110000146c3ef25 | Elimino el rango (fundador) de Kaoz - steam:11000010721fdd7
+(23/12/2021 22:59:51) DaniSuarez - steam:11000013d0c499a | Elimino el rango (premium) de TNT_Artur0_0 - steam:110000132526fd6
+(24/12/2021 16:49:40) lilith - steam:110000146c3ef25 | Elimino el rango (premium) de ^4Carrasco ^2fan ^3del ^4 Domi - steam:1100001436f5150
+(24/12/2021 18:55:19) TheRialPato - steam:11000011ab23be7 | Cancelo el rango (deluxe) de eloyrodriguez0509 - steam:11000014a2fb02a
+(24/12/2021 18:55:26) TheRialPato - steam:11000011ab23be7 | Elimino el rango (deluxe) de eloyrodriguez0509 - steam:11000014a2fb02a
+(25/12/2021 23:08:13) TheRialPato - steam:11000011ab23be7 | Elimino el rango (oro) de ^*^4 M0CHEA0 P0R UN P0LAC0 - steam:1100001445f605c
+(26/12/2021 01:55:56) ^*^0|| ^4SyGnus^011 || - steam:110000141802907 | Elimino el rango (premiun) de ^6M^3a^4t^7e^80 - steam:110000145fdee80
+(26/12/2021 14:15:07) ^8✞Teo^0Stefan✞ - steam:11000011862caa2 | Elimino el rango (premium) de ^8✞Teo^0Stefan✞ - steam:11000011862caa2
+(26/12/2021 17:54:01) ale.bosco - steam:11000010b50ad9f | Elimino el rango (deluxe) de ^*^6xImSam^0Loves^6 U ^0 ^^ - steam:11000011a28bc87
+(26/12/2021 18:04:58) ale.bosco - steam:11000010b50ad9f | Elimino el rango (deluxe) de ^*^6Lilith - steam:110000146c3ef25
+(26/12/2021 19:21:48) ^*^6Lilith - steam:110000146c3ef25 | Elimino el rango (premium) de vlak - steam:11000013e798dcb
+(26/12/2021 23:12:17) TheRialPato - steam:11000011ab23be7 | Elimino el rango (oro) de Papillon - steam:110000111a83af4
+(28/12/2021 01:44:05) TheRialPato - steam:11000011ab23be7 | Elimino el rango (premium) de TheRialPato - steam:11000011ab23be7
+(28/12/2021 10:41:52) ale.bosco - steam:11000010b50ad9f | Elimino el rango (premium) de ^6Lugaresco - steam:11000010a2c34fe
+(30/12/2021 17:39:04) ^*^6amdz_ - steam:1100001436b509b | Elimino el rango (basico) de andresanti716 - steam:11000013ec31317
+(02/01/2022 15:25:47) ^*^6amdz_ - steam:1100001436b509b | Elimino el rango (premium) de LOWAS - steam:1100001434cd181
+(02/01/2022 20:34:26) hamburguesino - steam:110000141babb05 | Elimino el rango (deluxe) de Abdulio - steam:1100001137dd34f
+(03/01/2022 17:49:01) ^*^6amdz_ - steam:1100001436b509b | Elimino el rango (deluxe) de Att1tudee - steam:1100001493cdc23
+(03/01/2022 17:59:17) ^*^6amdz_ - steam:1100001436b509b | Elimino el rango (deluxe) de Jacnan - steam:11000013dc1a3ec
+(07/01/2022 22:10:53) ^*^6Chapi_79 UwU - steam:110000144b6644e | Cancelo el rango (premium) de sebas9888 - steam:1100001356d5887
+(07/01/2022 22:10:58) ^*^6Chapi_79 UwU - steam:110000144b6644e | Cancelo el rango (premium) de dddiego1108 - steam:110000147e75240
+(07/01/2022 22:11:21) ^*^6Chapi_79 UwU - steam:110000144b6644e | Cancelo el rango (premium) de dddiego1108 - steam:110000147e75240
+(10/01/2022 20:51:55) ^*^8Señor ^3Chapi_79 ^8UwU - steam:110000144b6644e | Elimino el rango (basico) de ☬ ZeTa ☬ - steam:110000142802998
+(10/01/2022 21:09:34) ^*^6amdz_ - steam:1100001436b509b | Elimino el rango (premium) de César - steam:110000149ea4d09
+(20/01/2022 20:03:29) DaniSuarez - steam:11000013d0c499a | Elimino el rango (deluxe) de ErRuufoo22 - steam:11000013d0e980a
+(20/01/2022 22:52:54) Furbvaz - steam:1100001126ee100 | Elimino el rango (basico) de [Swag].90s - steam:110000146f477a9
+(24/01/2022 18:18:37) ^*^5✞Aus^*^8try✯ - steam:110000144e9bcf4 | Elimino el rango (oro) de Kaleisito - steam:110000109c8945c
+(26/01/2022 19:14:27) ^* ^6LeGa^7Zzy - steam:110000141ee164d | Elimino el rango (deluxe) de joselitooooo - steam:11000014236d8bb
+(06/02/2022 01:13:24) TheRialPato - steam:11000011ab23be7 | Elimino el rango (oro) de Amnexiaa - steam:11000014607d867
+(06/02/2022 19:55:09) ^*^5✞Aus^*^8try✯ - steam:110000144e9bcf4 | Elimino el rango (deluxe) de ^*^5✞Aus^*^8try✯ - steam:110000144e9bcf4
+(09/02/2022 00:10:17) Furbvaz - steam:1100001126ee100 | Elimino el rango (oro) de Kaleisito - steam:110000109c8945c
+(25/02/2022 01:08:22) TheRialPato - steam:11000011ab23be7 | Elimino el rango (premium) de RODRIGO824_YT - steam:1100001351ad8a0
+(02/03/2022 18:18:42) ^*^6xImSam^0Loves^6 U ^0 ^^ - steam:11000011a28bc87 | Elimino el rango (deluxe) de lucia345 - steam:11000014b733f67
+(02/03/2022 19:33:37) Austry - steam:110000144e9bcf4 | Elimino el rango (fundador) de ER  BRYAN - steam:11000011315350c
+(05/03/2022 02:28:34) Señor Mufasa - steam:11000013d78413a | Elimino el rango (oro) de ^*^6S^4a^2u^3l_ - steam:110000147d3fca0
+(11/03/2022 14:05:02) Señor Mufasa - steam:11000013d78413a | Elimino el rango (basico) de Gabiroll - steam:1100001180f4670
+(11/03/2022 19:22:58) Señor Mufasa - steam:11000013d78413a | Elimino el rango (oro) de ^ˎˊ^1Fan1Skeler^ˎˊ - steam:110000140400286
+(13/03/2022 15:16:30) ^*^2Lider Ginomo | Chapi - steam:110000144b6644e | Elimino el rango (fundador) de Rafita - steam:11000011176fdcf
+(18/03/2022 23:23:32) ^5^*Att1tudee^r^7 - steam:1100001493cdc23 | Elimino el rango (oro) de ^*^0T'ha^5s Cai^0gut ??? - steam:11000013ff934aa
+(19/03/2022 18:32:36) ^5^*Att1tudee^r^7 - steam:1100001493cdc23 | Elimino el rango (oro) de ^1El^3Rambo^1Español - steam:110000144097439
+(21/03/2022 14:07:22) Rafita - steam:11000011176fdcf | Elimino el rango (basico) de Osir1s - steam:11000013f08910a
+(22/03/2022 16:50:23) ^5^*Att1tudee^r^7 - steam:1100001493cdc23 | Elimino el rango (premium) de ^4^ˎˊFan1Skeler^ˎˊ - steam:110000140400286
+(22/03/2022 19:03:04) ^5JJoin - steam:11000014499b9bd | Elimino el rango (oro) de ChambitoWWE - steam:1100001367bd462
+(26/03/2022 16:40:50) sKeler - steam:110000147cd6067 | Elimino el rango (premium) de ^3i^7espiii - steam:1100001495d4139
+(30/03/2022 22:20:02) ^5^*Att1tudee^r^7 - steam:1100001493cdc23 | Elimino el rango (oro) de Michi17 - steam:11000013e5888df
+(03/04/2022 22:17:53) ^*^5Chapi ^8UwU - steam:110000144b6644e | Elimino el rango (deluxe) de Vaya Tongo - steam:110000109c8945c
+(12/04/2022 16:08:32) ^*018 | ^6!Alvarezz^^ - steam:11000014607f9c8 | Elimino el rango (premium) de ^4Mocheado ^5por ^6un ^2macaco - steam:1100001453d85bb
+(18/04/2022 14:21:17) Crako - steam:110000134d5f052 | Elimino el rango (deluxe) de ^*^3mama^*^6huevo ^*^5(shadow) - steam:11000014245345b
+(18/04/2022 17:40:26) TheRialPato - steam:11000011ab23be7 | Elimino el rango (premium) de ^*muxa ^8ya no esta^5 en pruebas - steam:11000010592d6bc
+(18/04/2022 17:57:01) TheRialPato - steam:11000011ab23be7 | Elimino el rango (basico) de ^*^9 Pasaarrugada - steam:110000147f48270
+(18/04/2022 18:00:42) TheRialPato - steam:11000011ab23be7 | Elimino el rango (premium) de Fenixx - steam:1100001420e11f3
+(18/04/2022 20:53:09) TheRialPato - steam:11000011ab23be7 | Elimino el rango (premium) de ^5JJoin - steam:11000014499b9bd
+(18/04/2022 21:17:25) TheRialPato - steam:11000011ab23be7 | Elimino el rango (deluxe) de ^*^6nic0 - steam:11000013c0b3105
+(21/04/2022 15:20:39) amdz_ - steam:1100001436b509b | Elimino el rango (premium) de 10mmf11 - steam:11000014ab912aa
+(25/04/2022 21:25:55) sushe reformed - steam:1100001453e3faf | Elimino el rango (donador) de ^8✞Teo^0Stefan✞ - steam:11000011862caa2
+(26/04/2022 22:19:07) ^5^*Att1tudee^r^7 - steam:1100001493cdc23 | Elimino el rango (donador) de ^8✞Teo^0Stefan✞ - steam:11000011862caa2
+(28/04/2022 16:41:21) ^5^*Att1tudee^r^7 - steam:1100001493cdc23 | Elimino el rango (deluxe) de ^*^6nic0 - steam:11000013c0b3105
+(02/05/2022 21:44:23) ^*^6nic0 - steam:11000013c0b3105 | Elimino el rango (Premium) de Minecraft Villager - steam:11000010c6bc626
+(07/05/2022 01:18:32) sushe reformed - steam:1100001453e3faf | Elimino el rango (deluze) de guillem - steam:11000013d59bde7
+(07/05/2022 03:55:34) sushe reformed - steam:1100001453e3faf | Elimino el rango (Deluxe) de luisgarryes - steam:11000010ab3ec57
+(07/05/2022 15:36:10) sushe reformed - steam:1100001453e3faf | Elimino el rango (Deluxe) de luisgarryes - steam:11000010ab3ec57
+(07/05/2022 22:02:22) sushe reformed - steam:1100001453e3faf | Elimino el rango (deluxe) de guillem - steam:11000013d59bde7
+(10/05/2022 17:32:35) ^5JJoin - steam:11000014499b9bd | Elimino el rango (deluxe) de ^5JJoin - steam:11000014499b9bd
+(14/05/2022 11:30:32) TheRialPato - steam:11000011ab23be7 | Elimino el rango (deluxe) de markyy - steam:11000014a03b064
+(14/05/2022 21:40:34) sushe reformed - steam:1100001453e3faf | Elimino el rango (deluxe) de 10mmf11 - steam:11000014ab912aa
+(14/05/2022 22:14:46) TheRialPato - steam:11000011ab23be7 | Elimino el rango (basico) de V - steam:1100001099b1fd8
+(17/05/2022 19:29:53) ^*^6nic0 - steam:11000013c0b3105 | Elimino el rango (deluxe) de Tapeao por fan - steam:110000147d0557b
+(25/05/2022 10:39:21) ^*^5Chapi ^8UwU - steam:110000144b6644e | Elimino el rango (oro) de FanDeBufas - steam:110000119362feb
+(04/06/2022 17:33:54) ^*^8SEÑOR ^3DYXE - steam:110000141babb05 | Elimino el rango (premium) de drikkavanleuwen - steam:11000014c784e66
+(07/06/2022 23:14:33) DaniSuarez - steam:11000013d0c499a | Elimino el rango (deluxe) de cecilioj - steam:11000011b4608fd
+(09/06/2022 23:19:05) ^*^8SEÑOR ^3DYXE - steam:110000141babb05 | Elimino el rango (oro) de ^*^8SEÑOR ^3DYXE - steam:110000141babb05
+(11/06/2022 02:47:35) ^*^4nic0 - steam:11000013c0b3105 | Elimino el rango (basico) de Malaguitapapa - steam:1100001420a8326
+(11/06/2022 14:43:15) ^*^5Chapi ^8UwU - steam:110000144b6644e | Elimino el rango (oro) de martaaugu - steam:11000013a1c344a
+(14/06/2022 00:21:20) TheRialPato - steam:11000011ab23be7 | Elimino el rango (deluxe) de dylanxbrand - steam:110000141fab79d
+(25/06/2022 17:07:27) ^*^5Chapi ^8UwU - steam:110000144b6644e | Elimino el rango (premium) de ^* ^9ElRuso - steam:11000010df7ee21
+(28/06/2022 16:32:04) Sergio - steam:110000148e6081d | Elimino el rango (premium) de ^*^3Mocheado^4por^5Gha - steam:11000013e7b91e6
+(29/06/2022 19:37:26) Sergio - steam:110000148e6081d | Elimino el rango (fundador) de sergio26 - steam:11000013660a9d5
+(06/07/2022 14:11:39) ^*^6xImSam ^0Fan de Black - steam:11000011a28bc87 | Elimino el rango (premium) de larorro - steam:1100001407b40da
+(08/07/2022 00:09:52) TheRialPato - steam:11000011ab23be7 | Elimino el rango (oro) de ^*^5Chapii ^6UwU ^0FIU FIU - steam:110000144b6644e
+(10/07/2022 15:46:23) ^*^6xImSam ^0Fan de Black - steam:11000011a28bc87 | Elimino el rango (premium) de joanetga - steam:110000135ce63b1
+(10/07/2022 16:38:04) ^*^6xImSam ^0Fan de Black - steam:11000011a28bc87 | Elimino el rango (premium) de aLbA01 - steam:11000014175b1af
+(14/07/2022 00:34:15) TheRialPato - steam:11000011ab23be7 | Elimino el rango (premium) de ^* ^5El^6Ruso ^7FIU FIU - steam:11000010df7ee21
