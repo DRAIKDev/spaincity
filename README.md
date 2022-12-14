@@ -1,6 +1,5 @@
 # Servidor de SpainCityRP
 ## El resto de cosas pedirmelas por discord no se puede subir todo ; )
-## :rocket: 
 - Contacto: ! Draik#6001 
 ## :rocket: MOTIVOS:
 En agosto el señor Kilichi, tras venir y hacerse el dios cogio mi github y borro todo y lo remplazó por mensages homofobos:
